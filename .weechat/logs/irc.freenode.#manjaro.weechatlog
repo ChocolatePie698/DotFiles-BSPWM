@@ -1,0 +1,82 @@
+2020-05-11 23:48:33	-->	zephros (~zephros@2605:a000:1113:6096:9597:cbf3:303f:fc23) has joined #manjaro
+2020-05-11 23:48:33	--	Topic for #manjaro is "Welcome to Manjaro! Please wait around for 10-30 min for replies, IRC is not instant. | Use paste site for long output, e.g. bpaste.net | Check forum.manjaro.org and wiki.manjaro.org | Channel logs: http://echelog.com/?manjaro"
+2020-05-11 23:48:33	--	Topic set by meskarune on Sun, 21 Apr 2019 09:53:11
+2020-05-11 23:48:33	--	Channel #manjaro: 213 nicks (1 op, 6 voices, 206 normals)
+2020-05-11 23:48:33	--	URL for #manjaro: https://www.manjaro.org/
+2020-05-11 23:48:35	--	Channel created on Thu, 15 Nov 2012 01:14:49
+2020-05-11 23:53:14	-->	yuta (~pi@PPPa3552.e13.eacc.dti.ne.jp) has joined #manjaro
+2020-05-11 23:54:14	<--	Viscometer (~Viscomete@37.120.137.166) has quit (Ping timeout: 240 seconds)
+2020-05-11 23:58:15	<--	NiLon (~nilon@unaffiliated/nilon) has quit (Ping timeout: 258 seconds)
+2020-05-12 00:01:19	<--	yuta (~pi@PPPa3552.e13.eacc.dti.ne.jp) has quit (Quit: WeeChat 2.8)
+2020-05-12 00:03:31	-->	Viscometer (~Viscomete@37.120.137.166) has joined #manjaro
+2020-05-12 00:06:36	-->	ny-a (~Thunderbi@36-2-70-141.tokyo.fdn.vectant.ne.jp) has joined #manjaro
+2020-05-12 00:13:43	Surfie	Anyone have any good themes for awesome WM?
+2020-05-12 00:17:17	zephros	i personally user pywal for my theme needw
+2020-05-12 00:17:21	zephros	*needs
+2020-05-12 00:17:49	zephros	just use wal -i <path to picture> and it will change your colors
+2020-05-12 00:19:09	zephros	you can also use pywal with your terminal. There's a couple lines of code on their github and put that in your shell rc file. Your terminal should have the same colors as your theme from now on.
+2020-05-12 00:22:24	<--	BillyZane (BillyZane@gateway/vpn/privateinternetaccess/billyzane) has quit (Ping timeout: 256 seconds)
+2020-05-12 00:23:40	-->	rdolan (~rdolan@unaffiliated/rdolan) has joined #manjaro
+2020-05-12 00:32:37	<--	ggr (~ggr@156-226-196-88.dyn.estpak.ee) has quit (Remote host closed the connection)
+2020-05-12 00:44:08	-->	zephros (~zephros@2605:a000:1113:6096:9597:cbf3:303f:fc23) has joined #manjaro
+2020-05-12 00:44:08	--	Topic for #manjaro is "Welcome to Manjaro! Please wait around for 10-30 min for replies, IRC is not instant. | Use paste site for long output, e.g. bpaste.net | Check forum.manjaro.org and wiki.manjaro.org | Channel logs: http://echelog.com/?manjaro"
+2020-05-12 00:44:08	--	Topic set by meskarune on Sun, 21 Apr 2019 09:53:11
+2020-05-12 00:44:08	--	Channel #manjaro: 213 nicks (1 op, 6 voices, 206 normals)
+2020-05-12 00:44:09	--	URL for #manjaro: https://www.manjaro.org/
+2020-05-12 00:44:20	--	Channel created on Thu, 15 Nov 2012 01:14:49
+2020-05-12 00:46:30	-->	srevinsaju (~srevinsaj@77.69.255.17) has joined #manjaro
+2020-05-12 00:52:48	<--	Tori_Ooka (~quassel@pool-108-41-12-24.nycmny.fios.verizon.net) has quit (Read error: Connection reset by peer)
+2020-05-12 00:53:02	-->	Tori_Ooka (~quassel@pool-108-41-12-24.nycmny.fios.verizon.net) has joined #manjaro
+2020-05-12 00:53:41	-->	NiLon (~nilon@unaffiliated/nilon) has joined #manjaro
+2020-05-12 01:17:58	-->	InfernalFlameZA (~InfernalF@105.242.68.179) has joined #manjaro
+2020-05-12 01:31:51	-->	Hanzel (~hans@83-84-146-252.cable.dynamic.v4.ziggo.nl) has joined #manjaro
+2020-05-12 01:31:52	-->	edlou (uid413273@gateway/web/irccloud.com/x-jlgivksvucfpdzzn) has joined #manjaro
+2020-05-12 01:42:04	<--	kevinalh (~kevinalh@179.6.193.17) has quit (Ping timeout: 272 seconds)
+2020-05-12 01:43:55	<--	s8321414 (~s8321414@2001-b011-e604-37dd-0000-0000-da32-2781.dynamic-ip6.hinet.net) has quit (Quit: Konversation terminated!)
+2020-05-12 01:44:03	-->	kevinalh (~kevinalh@179.6.193.17) has joined #manjaro
+2020-05-12 01:50:31	<--	chozen_ (~chozen@209.159.234.75) has quit (Remote host closed the connection)
+2020-05-12 01:55:57	-->	chozen_ (~chozen@209.159.234.75) has joined #manjaro
+2020-05-12 01:55:57	<--	zephros (~zephros@2605:a000:1113:6096:9597:cbf3:303f:fc23) has quit (Ping timeout: 260 seconds)
+2020-05-12 01:55:57	--	irc: disconnected from server
+2020-05-12 01:56:21	-->	zephros (zephros@gateway/vpn/privateinternetaccess/zephros) has joined #manjaro
+2020-05-12 01:56:21	--	Topic for #manjaro is "Welcome to Manjaro! Please wait around for 10-30 min for replies, IRC is not instant. | Use paste site for long output, e.g. bpaste.net | Check forum.manjaro.org and wiki.manjaro.org | Channel logs: http://echelog.com/?manjaro"
+2020-05-12 01:56:21	--	Topic set by meskarune on Sun, 21 Apr 2019 09:53:11
+2020-05-12 01:56:22	--	Channel #manjaro: 217 nicks (1 op, 6 voices, 210 normals)
+2020-05-12 01:56:22	--	URL for #manjaro: https://www.manjaro.org/
+2020-05-12 01:56:38	--	Channel created on Thu, 15 Nov 2012 01:14:49
+2020-05-12 01:58:52	<--	chozen_ (~chozen@209.159.234.75) has quit (Remote host closed the connection)
+2020-05-12 02:01:25	-->	aasutosh (~aa@27.34.68.92) has joined #manjaro
+2020-05-12 02:02:14	-->	chozen_ (~chozen@209.159.234.75) has joined #manjaro
+2020-05-12 02:03:30	<--	kevinalh (~kevinalh@179.6.193.17) has quit (Ping timeout: 260 seconds)
+2020-05-12 02:03:59	<--	aasutossh (~aa@27.34.12.150) has quit (Ping timeout: 258 seconds)
+2020-05-12 02:08:27	-->	atrament666 (~atrament@cpc95006-newt38-2-0-cust73.19-3.cable.virginm.net) has joined #manjaro
+2020-05-12 02:09:20	<--	atrament666 (~atrament@cpc95006-newt38-2-0-cust73.19-3.cable.virginm.net) has quit (Client Quit)
+2020-05-12 02:09:38	-->	atrament666 (~atrament@cpc95006-newt38-2-0-cust73.19-3.cable.virginm.net) has joined #manjaro
+2020-05-12 02:09:43	<--	atrament666 (~atrament@cpc95006-newt38-2-0-cust73.19-3.cable.virginm.net) has quit (Max SendQ exceeded)
+2020-05-12 02:10:34	<--	ny-a (~Thunderbi@36-2-70-141.tokyo.fdn.vectant.ne.jp) has quit (Ping timeout: 272 seconds)
+2020-05-12 02:10:47	-->	atrament666 (~atrament@cpc95006-newt38-2-0-cust73.19-3.cable.virginm.net) has joined #manjaro
+2020-05-12 02:15:46	<--	ponyrider (~ponyrider@unaffiliated/ponyrider) has quit (Quit: Lost terminal)
+2020-05-12 02:17:36	-->	ny-a (~Thunderbi@36-2-70-141.tokyo.fdn.vectant.ne.jp) has joined #manjaro
+2020-05-12 02:20:16	<--	anoncon (~Falsememo@pool-173-69-47-121.prvdri.fios.verizon.net) has quit (Ping timeout: 256 seconds)
+2020-05-12 02:26:03	<--	artlogic (~artlogic@znc.kruth.org) has quit (Quit: ZNC 1.7.5 - https://znc.in)
+2020-05-12 02:27:29	-->	artlogic (~artlogic@znc.kruth.org) has joined #manjaro
+2020-05-12 02:28:56	-->	palasso (~palasso@unaffiliated/palasso) has joined #manjaro
+2020-05-12 02:32:39	-->	Leion (~leion@117.160.143.138) has joined #manjaro
+2020-05-12 02:33:26	<--	chozen (~chozen@209.159.234.75) has quit (Quit: Leaving)
+2020-05-12 02:34:50	<--	Leion (~leion@117.160.143.138) has quit (Quit: Konversation terminated!)
+2020-05-12 02:34:58	Surfie	Thanks zephros. Not a big fan of that, as it changes the colours based on the wallpaper. But a good tip none the less.
+2020-05-12 02:39:00	-->	chozen (~chozen@209.159.234.75) has joined #manjaro
+2020-05-12 02:41:27	-->	Leion (~leion@117.160.143.138) has joined #manjaro
+2020-05-12 02:42:06	--	Leion is now known as leion
+2020-05-12 02:43:09	<--	leion (~leion@117.160.143.138) has quit (Quit: Konversation terminated!)
+2020-05-12 02:44:40	-->	oldguy (~manjaro-u@2a04:b2c2:1409:3500:c8f6:a312:21d2:53cf) has joined #manjaro
+2020-05-12 02:45:24	<--	srevinsaju (~srevinsaj@77.69.255.17) has quit (Ping timeout: 272 seconds)
+2020-05-12 02:46:01	-->	leion (~leion@117.160.143.138) has joined #manjaro
+2020-05-12 02:47:31	<--	leion (~leion@117.160.143.138) has quit (Client Quit)
+2020-05-12 02:48:59	-->	Leion (~leion@117.160.143.138) has joined #manjaro
+2020-05-12 02:49:16	<--	oldguy (~manjaro-u@2a04:b2c2:1409:3500:c8f6:a312:21d2:53cf) has quit (Client Quit)
+2020-05-12 02:54:23	-->	srevinsaju (~srevinsaj@77.69.255.17) has joined #manjaro
+2020-05-12 02:54:52	-->	_thelion_ (~matthias@91-115-70-59.adsl.highway.telekom.at) has joined #manjaro
+2020-05-12 02:56:56	<--	Contrillion (~manjaro-u@194-193-131-242.tpgi.com.au) has quit (Quit: Konversation terminated!)
+2020-05-12 02:56:57	<--	chambln (~user@80.1.76.24) has quit (Read error: Connection reset by peer)
+2020-05-12 02:59:49	<--	atrament666 (~atrament@cpc95006-newt38-2-0-cust73.19-3.cable.virginm.net) has quit (Remote host closed the connection)

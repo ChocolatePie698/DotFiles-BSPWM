@@ -1,0 +1,83 @@
+2020-05-12 02:37:41	-->	zephros (zephros@gateway/vpn/privateinternetaccess/zephros) has joined #archlinux
+2020-05-12 02:37:41	--	Topic for #archlinux is "Welcome to Arch Linux, Good Luck: https://archlinux.org | Rules: https://goo.gl/XWFreH | Pastebins: see !paste | pacman 5.2 is out; check your .pacnews http://allanmcrae.com/2019/10/pacman-5-2-release/ | Installing? New `base` package; read the install guide carefully | https://www.archlinux.org/news/sshd-needs-restarting-after-upgrading-to-openssh-82p1/"
+2020-05-12 02:37:41	--	Topic set by phrik (~phrik@archlinux/bot/phrik) on Sun, 16 Feb 2020 21:03:05
+2020-05-12 02:37:41	--	Channel #archlinux: 1791 nicks (2 ops, 0 voices, 1789 normals)
+2020-05-12 02:37:43	--	Channel created on Sun, 15 Feb 2004 00:08:31
+2020-05-12 02:37:49	-->	NeverSummer (~quassel@unaffiliated/neversummer) has joined #archlinux
+2020-05-12 02:39:00	-->	chozen (~chozen@209.159.234.75) has joined #archlinux
+2020-05-12 02:39:07	<--	drdata (~dre_@115-188-153-178-fibre.sparkbb.co.nz) has quit (Remote host closed the connection)
+2020-05-12 02:40:55	-->	Albori (~Albori@67-43-243-189.fidnet.com) has joined #archlinux
+2020-05-12 02:40:58	ayekat	sQVe: what's the goal?
+2020-05-12 02:40:59	<--	sQVe (~sQVe@unaffiliated/sqve) has quit (Quit: Bye!)
+2020-05-12 02:41:26	-->	Leion (~leion@117.160.143.138) has joined #archlinux
+2020-05-12 02:41:46	-->	lithiumpt (~lithiumpt@37.120.213.84) has joined #archlinux
+2020-05-12 02:42:06	--	Leion is now known as leion
+2020-05-12 02:42:55	-->	Flaxplax (~alex@217-215-153-249-no249.tbcn.telia.com) has joined #archlinux
+2020-05-12 02:42:55	-->	mcquinn (~Thunderbi@p200300C54F3AAD79CFBAC5491E6FE676.dip0.t-ipconnect.de) has joined #archlinux
+2020-05-12 02:43:09	<--	leion (~leion@117.160.143.138) has quit (Quit: Konversation terminated!)
+2020-05-12 02:44:00	-->	random-nick (~random-ni@unaffiliated/random-nick) has joined #archlinux
+2020-05-12 02:44:23	edlou	!paste
+2020-05-12 02:44:23	@phrik	Paste short snippets (up to 3 lines) in channel. Please do NOT use pastebin.com or paste.ubuntu.com -- some good, sane paste services are http://ix.io, https://paste.rs, https://bpaste.net and https://gist.github.com. See !ix or !rs for an easy way to paste from a pipe.
+2020-05-12 02:45:47	-->	leion (~leion@117.160.143.138) has joined #archlinux
+2020-05-12 02:46:34	<--	yunhao94_ (~yunhao94@183.197.176.33) has quit (Ping timeout: 240 seconds)
+2020-05-12 02:47:07	<--	Gensi (~quassel@pinteury.com) has quit (Quit: No Ping reply in 180 seconds.)
+2020-05-12 02:47:16	<--	edd_lc (~edd_lc@85-250-117-140.bb.netvision.net.il) has quit (Read error: Connection reset by peer)
+2020-05-12 02:47:18	-->	ImQ009 (~ImQ009@unaffiliated/imq009) has joined #archlinux
+2020-05-12 02:47:31	<--	leion (~leion@117.160.143.138) has quit (Client Quit)
+2020-05-12 02:49:01	-->	Leion (~leion@117.160.143.138) has joined #archlinux
+2020-05-12 02:49:37	<--	mcquinn (~Thunderbi@p200300C54F3AAD79CFBAC5491E6FE676.dip0.t-ipconnect.de) has quit (Ping timeout: 260 seconds)
+2020-05-12 02:51:11	NetSysFire	ayekat: i actually thought of a solution that could work even on a tty. a unit file that runs when default.target is stopped
+2020-05-12 02:51:57	-->	skyscater (~skyscater@188-23-144-202.adsl.highway.telekom.at) has joined #archlinux
+2020-05-12 02:52:32	-->	Erayaydin (~eray@78.167.228.207) has joined #archlinux
+2020-05-12 02:52:34	-->	edd_lc (~edd_lc@85-250-117-140.bb.netvision.net.il) has joined #archlinux
+2020-05-12 02:52:37	NetSysFire	could be a user unit or a system unit that runs after user@1000 or something like this
+2020-05-12 02:52:40	Erayaydin	Anyone using AUR polybar-git package?
+2020-05-12 02:52:41	ayekat	NetSysFire: yeah, that would seem cleaner... though I wonder what happens when lingering is enabled
+2020-05-12 02:53:19	-->	Gensi (~quassel@pinteury.com) has joined #archlinux
+2020-05-12 02:53:42	<--	greyeax (~greyeax@cpe-104-32-242-90.socal.res.rr.com) has quit (Ping timeout: 256 seconds)
+2020-05-12 02:53:57	NetSysFire	!give Erayaydin anyone
+2020-05-12 02:53:57	@phrik	Erayaydin: Quite possibly. Why do you ask?
+2020-05-12 02:54:44	Erayaydin	Its look like polybar-git out-of-date. There is jsoncpp issue (package require .21 but there is .22 version). Its look like PKGVER wrong in PKGBUILD
+2020-05-12 02:54:52	-->	_thelion_ (~matthias@91-115-70-59.adsl.highway.telekom.at) has joined #archlinux
+2020-05-12 02:54:55	Erayaydin	Currently I got some account issues, maybe someone can flag out-of-date
+2020-05-12 02:55:15	NetSysFire	you can write a comment
+2020-05-12 02:55:25	NetSysFire	or modify the PKGBUILD yourself
+2020-05-12 02:55:33	NetSysFire	thats just for you though
+2020-05-12 02:55:48	Erayaydin	Trying to login AUR, I face some e-mail account issues :P I'll when I logged in :)
+2020-05-12 02:56:04	<--	homerj (~homerj@april-fools/2013/second/homerj) has quit (Remote host closed the connection)
+2020-05-12 02:56:39	-->	mcquinn (~Thunderbi@p5DCFABF0.dip0.t-ipconnect.de) has joined #archlinux
+2020-05-12 02:56:51	<--	humachine (~ranjith@unaffiliated/humachine) has quit (Ping timeout: 244 seconds)
+2020-05-12 02:57:12	NetSysFire	theres also #archlinux-aur btw
+2020-05-12 02:57:42	-->	Tobbi (~Tobbi@supertux/tobbi) has joined #archlinux
+2020-05-12 02:57:44	-->	fweht (uid404746@gateway/web/irccloud.com/x-sghjvcgtrqhieghc) has joined #archlinux
+2020-05-12 02:57:47	<--	delusionallogic_ (~delusiona@176-23-98-104-cable.dk.customer.tdc.net) has quit (Ping timeout: 260 seconds)
+2020-05-12 02:57:47	<--	valdar (~atarocch@93.56.164.28) has quit (Ping timeout: 260 seconds)
+2020-05-12 02:58:10	Erayaydin	Oh, okey ty :) NetSysFire
+2020-05-12 02:58:42	<--	xamindar (~quassel@035-134-097-050.res.spectrum.com) has quit (Ping timeout: 272 seconds)
+2020-05-12 02:58:46	<--	mariuszskon (~mariuszsk@82.102.25.244) has quit (Ping timeout: 246 seconds)
+2020-05-12 02:59:49	<--	atrament666 (~atrament@cpc95006-newt38-2-0-cust73.19-3.cable.virginm.net) has quit (Remote host closed the connection)
+2020-05-12 03:00:23	-->	xamindar (~quassel@035-134-097-050.res.spectrum.com) has joined #archlinux
+2020-05-12 03:00:53	-->	mariuszskon (~mariuszsk@82.102.25.244) has joined #archlinux
+2020-05-12 03:01:18	-->	Volgaar (~volgaar@104.66.13.93.rev.sfr.net) has joined #archlinux
+2020-05-12 03:03:19	<--	gigetoo (~gigetoo@c83-250-41-185.bredband.comhem.se) has quit (Ping timeout: 246 seconds)
+2020-05-12 03:03:30	<--	clemens3 (~clemens@225.40.150.83.ftth.as8758.net) has quit (Ping timeout: 256 seconds)
+2020-05-12 03:03:38	-->	wrobinson (~wrobinson@102.114.30.195) has joined #archlinux
+2020-05-12 03:03:48	-->	feriman (~feriman@176.104.191.25) has joined #archlinux
+2020-05-12 03:04:01	-->	gigetoo (~gigetoo@c83-250-41-185.bredband.comhem.se) has joined #archlinux
+2020-05-12 03:04:55	-->	mizux (~mizux@2a01cb0087e8870052caf22321bfd4cf.ipv6.abo.wanadoo.fr) has joined #archlinux
+2020-05-12 03:06:53	-->	christoph (~christoph@HSI-KBW-078-043-004-207.hsi4.kabel-badenwuerttemberg.de) has joined #archlinux
+2020-05-12 03:08:01	-->	fmount (~fmount@unaffiliated/fmount) has joined #archlinux
+2020-05-12 03:08:06	-->	chripell (~chripell@89.100.82.63) has joined #archlinux
+2020-05-12 03:08:07	<--	fmount (~fmount@unaffiliated/fmount) has left #archlinux ("WeeChat 2.8")
+2020-05-12 03:08:50	<--	gigetoo (~gigetoo@c83-250-41-185.bredband.comhem.se) has quit (Ping timeout: 260 seconds)
+2020-05-12 03:09:15	-->	clemens3 (~clemens@225.40.150.83.ftth.as8758.net) has joined #archlinux
+2020-05-12 03:09:38	-->	gigetoo (~gigetoo@c83-250-41-185.bredband.comhem.se) has joined #archlinux
+2020-05-12 03:09:47	<--	detseg (~segv@71-147-44-107.lightspeed.livnmi.sbcglobal.net) has quit (Quit: WeeChat 2.8)
+2020-05-12 03:10:21	-->	binTrl (~binaryTra@2402:3a80:cb5:4973:edb:31f0:18ba:ef58) has joined #archlinux
+2020-05-12 03:10:44	-->	MonoMonkey (~MonoMonke@2a02:810d:a33f:f6c0::ec80) has joined #archlinux
+2020-05-12 03:10:48	<--	h4rd3n3D_ (~weechat@gateway/tor-sasl/h4rd3n3d) has quit (Remote host closed the connection)
+2020-05-12 03:10:49	<--	h4rd3n3D (~weechat@gateway/tor-sasl/h4rd3n3d) has quit (Remote host closed the connection)
+2020-05-12 03:11:29	-->	h4rd3n3D_ (~weechat@gateway/tor-sasl/h4rd3n3d) has joined #archlinux
+2020-05-12 03:11:34	<--	xamindar (~quassel@035-134-097-050.res.spectrum.com) has quit (Ping timeout: 240 seconds)
+2020-05-12 03:11:35	-->	h4rd3n3D (~weechat@gateway/tor-sasl/h4rd3n3d) has joined #archlinux
+2020-05-12 03:12:25	-->	christoph_ (~christoph@HSI-KBW-078-043-004-207.hsi4.kabel-badenwuerttemberg.de) has joined #archlinux

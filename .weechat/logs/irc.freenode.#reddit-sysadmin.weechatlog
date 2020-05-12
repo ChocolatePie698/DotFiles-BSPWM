@@ -1,0 +1,717 @@
+2020-05-11 23:51:24	-->	zephros (~zephros@2605:a000:1113:6096:9597:cbf3:303f:fc23) has joined #reddit-sysadmin
+2020-05-11 23:51:24	--	Topic for #reddit-sysadmin is "Home of r/sysadmin | No Politics | Can't speak? Register! https://goo.gl/Pp1KQj | New? Try #reddit-sysadmin-support | /r/sysadmingaming | Keep it safe for work. | Don't post personal info. | No emojis."
+2020-05-11 23:51:24	--	Topic set by mistiry (~mistiry@unaffiliated/mistiry) on Sun, 03 May 2020 02:37:08
+2020-05-11 23:51:24	--	Channel #reddit-sysadmin: 425 nicks (6 ops, 12 voices, 407 normals)
+2020-05-11 23:51:25	c|oneman	is chromeOS easier to lock down than Windows? like you can just click a few things an G-Suite and lock people out of non-business applications?
+2020-05-11 23:51:26	--	Channel created on Thu, 29 Dec 2011 13:56:36
+2020-05-11 23:51:28	+aName	https://link.resilio.com/#f=sync&sz=8E8&t=1&s=4XZDDEZWVVKIP6ZRQEUV3B24TEFYCUMB&i=CNLF3DIUPEDMWCTSUIFCMDIYR4HXOMYR6&e=1589514675&v=2.6&a=2 I mean
+2020-05-11 23:51:33	aleph-	What's the livePD chat again?
+2020-05-11 23:51:41	aleph-	I'm bored and feeling chatty
+2020-05-11 23:51:44	Hunterkll	heh.... you're better off not knowing
+2020-05-11 23:51:49	aleph-	Heh
+2020-05-11 23:52:05	aleph-	I mean probably better then cokie the roommate
+2020-05-11 23:53:14	+xe0n	whats sync
+2020-05-11 23:53:24	+xe0n	sounds bonzai buddy
+2020-05-11 23:53:41	+aName	Remember BitTorrentSync?
+2020-05-11 23:53:52	+xe0n	ooooo
+2020-05-11 23:53:52	+[DONG]DrGibby	heh
+2020-05-11 23:53:53	+xe0n	lol
+2020-05-11 23:53:56	+aName	This is it now
+2020-05-11 23:54:04	+[DONG]DrGibby	reminds me i should check mine
+2020-05-11 23:54:08	+aName	I just already had it set up
+2020-05-11 23:54:09	+xe0n	Sync: a shorter name, but still the same technology
+2020-05-11 23:54:21	+xe0n	you're a good man
+2020-05-11 23:54:38	+xe0n	but do i wanna install it
+2020-05-11 23:54:38	+xe0n	LOL
+2020-05-11 23:54:53	aleph-	You always want bonzai buddy
+2020-05-11 23:55:05	<--	locustlord (~tech@S0106f0f249e2c023.va.shawcable.net) has quit (Read error: Connection reset by peer)
+2020-05-11 23:56:02	+xe0n	"click the moving monkey to win $100"
+2020-05-11 23:56:05	+xe0n	damn banner
+2020-05-11 23:56:13	+aName	naw
+2020-05-11 23:56:30	+aName	now it's 'watch a retard play this game until you feel compelled to click to show them how'
+2020-05-11 23:56:35	+aName	ONLY 1% CAN SOLVE THIS PUZZLE
+2020-05-11 23:57:20	+xe0n	who wrote the puzzle? "that homeless dude over there"
+2020-05-11 23:57:40	+aName	"THE ALIENS STOLE MY BUTTHOLE!"
+2020-05-11 23:57:52	+aName	"Yeah we don't know what he's on about either"
+2020-05-11 23:58:08	Hunterkll	yeet
+2020-05-11 23:58:08	+xe0n	there's a simpsons episode in that
+2020-05-11 23:58:13	Hunterkll	https://i.imgur.com/YmWaJIg.jpg
+2020-05-11 23:58:29	+xe0n	feeding and breathing tubes....
+2020-05-11 23:58:34	+xe0n	does your graphics card have the rona?
+2020-05-11 23:58:41	+aName	Man
+2020-05-11 23:58:41	Hunterkll	lol
+2020-05-11 23:58:44	Hunterkll	xe0n, no its got a cold
+2020-05-11 23:58:46	+aName	You spent too much for that to be so ugly
+2020-05-11 23:58:50	Hunterkll	fuckin precision X shows the card all blue as fuck
+2020-05-11 23:58:56	Hunterkll	as in temp readings
+2020-05-11 23:58:58	Hunterkll	LOL
+2020-05-11 23:58:58	misspwn	fill it with beer
+2020-05-11 23:59:06	Hunterkll	aName, what, not even going to point out the CPU cooler that's just hanging in the loop?
+2020-05-11 23:59:15	Hunterkll	protip: they say 2011v3 coolers work on socket 2066 boards
+2020-05-11 23:59:17	Hunterkll	they were lying
+2020-05-11 23:59:18	+xe0n	misspwn ++++
+2020-05-11 23:59:22	Hunterkll	THEY. WERE. LYING.
+2020-05-11 23:59:37	Hunterkll	i still gotta buy all the cables and shit too
+2020-05-11 23:59:39	+aName	Hunterkll You're like 'fuck wire management, let me hang EXTRA SHIT on the wires'
+2020-05-11 23:59:46	Hunterkll	well yea
+2020-05-11 23:59:48	misspwn	let me put statues in there too?
+2020-05-11 23:59:51	misspwn	are those toys?
+2020-05-11 23:59:53	Hunterkll	hey statues are cool
+2020-05-11 23:59:56	+aName	Hey man, you do you
+2020-05-11 23:59:57	Hunterkll	but i'm nowhere near done cabling
+2020-05-11 23:59:59	misspwn	but in your computer??
+2020-05-12 00:00:05	Hunterkll	this is 2 years in and i finally got the GPU loop done
+2020-05-12 00:00:05	Hunterkll	lol
+2020-05-12 00:00:14	Hunterkll	i'm really fucking behind on this build
+2020-05-12 00:00:14	Hunterkll	LOL
+2020-05-12 00:00:26	misspwn	i wonder if i zoom in i can see a live laugh love rubber band bracelet
+2020-05-12 00:00:33	+xe0n	well i said 5 years ago when i built this machine that i'd clean it in six months
+2020-05-12 00:00:38	+xe0n	its been 5 years, havent opened it since.....
+2020-05-12 00:00:41	Hunterkll	misspwn, no, but there's a turtle
+2020-05-12 00:00:49	Hunterkll	:D
+2020-05-12 00:00:52	+aName	Hunterkll: 5/1/2040 - OK so I got the quantum snarfleblitzes installed but the CPU is still air cooled...
+2020-05-12 00:00:54	+xe0n	i bet thermal paste is all sorts of dry
+2020-05-12 00:01:00	Hunterkll	aName, BASICALLY
+2020-05-12 00:01:05	Hunterkll	aName, I had the CPU water cooled until 6 months ago
+2020-05-12 00:01:08	Hunterkll	took it out to move shit around
+2020-05-12 00:01:10	Hunterkll	never put it back in
+2020-05-12 00:01:11	Hunterkll	$2000 CPU
+2020-05-12 00:01:13	Hunterkll	$30 cooler
+2020-05-12 00:01:44	Hunterkll	I do have a different block coming in - that one i found that has the OLED display or whatever for the temperature right on it
+2020-05-12 00:01:54	Hunterkll	once I finally balls up and do hardline and dual loop it'll be nice
+2020-05-12 00:01:59	Hunterkll	but i don't have the parts to dual loop it yet right now
+2020-05-12 00:02:09	Hunterkll	and the damn res i'm using doesn't even properly mount in the case :D
+2020-05-12 00:02:26	+aName	I'm waiting for new GPUs, myself
+2020-05-12 00:02:33	Hunterkll	well, these are 1080 ti's
+2020-05-12 00:02:33	+aName	I need to replace my GPU to get more disks
+2020-05-12 00:02:36	<--	notsponsible (~notsponsi@104.140.54.59) has quit (Quit: notsponsible)
+2020-05-12 00:02:39	+aName	And I've got an r9 fury
+2020-05-12 00:02:41	Hunterkll	i checked, having the waterblock on 'em adds like $150 to the auction price
+2020-05-12 00:02:48	Hunterkll	so i'm not really out much by slapping 'em on
+2020-05-12 00:02:49	+aName	so like, there's no good replacement without spending stupid money
+2020-05-12 00:02:50	+aName	and it works fine
+2020-05-12 00:03:03	Hunterkll	aName, a-ko has a 2080 ti on a i7-4770k or something
+2020-05-12 00:03:03	Hunterkll	lol
+2020-05-12 00:03:09	Hunterkll	dat ddr3 tho
+2020-05-12 00:03:20	+xe0n	os: Microsoft Windows 10 Pro Insider Preview - (10.0.19582) up: 23hrs 34mins 14secs cpu: Intel(R) Core(TM) i7-4790K CPU @ 4.00GHz (x64) at 4001MHz (1% Load) gfx: NVIDIA GeForce GTX 960 -2.00GB res: 1920x1200 32bit 59Hz ram: 7551/16322.7MB (46.26%) [|||||-----] hdd: C:\ 110.28GB/232.05GB E:\ 33.95GB/223.57GB H:\ 7.1GB/3.64TB J:\ 20.89GB/7.28TB net: Killer e2200 Gigabit Ethernet Controller
+2020-05-12 00:03:20	+xe0n	[NDIS 6.30] - 0MB/s 0B In 0B Out sound: NVIDIA High Definition Audio mobo: Gigabyte Technology Co., Ltd. Z97X-UD5H
+2020-05-12 00:03:33	+xe0n	4790k
+2020-05-12 00:03:34	+xe0n	bitches.
+2020-05-12 00:03:34	+aName	(The GPU is long enough it encroaches on where disks would go)
+2020-05-12 00:03:43	+aName	So I'm limited to five disks if I don't replace the GPU
+2020-05-12 00:04:17	Hunterkll	LOL
+2020-05-12 00:04:24	Hunterkll	WHO WAS IT THAT KEEPS MENTIONING INTERACTIVE BROKERS IN HERE?
+2020-05-12 00:04:36	Hunterkll	https://markets.businessinsider.com/commodities/news/oil-trader-loses-millions-on-brokerage-glitch-2020-5-1029186688?fbclid=iwar2saca1hp0zyokpe4iwe-jw8iaroldajpf5y8axlcdnw1qv966ukgqkjac
+2020-05-12 00:04:38	-->	notsponsible (~notsponsi@104.140.54.59) has joined #reddit-sysadmin
+2020-05-12 00:04:39	Hunterkll	hahahaha
+2020-05-12 00:05:27	+aName	I mean.... oil going below zero was a hell of an edge case
+2020-05-12 00:05:43	Hunterkll	sure, but it's a potential for any physical commodity contract
+2020-05-12 00:06:15	+aName	Looks like the company with the display issue is taking the hit though
+2020-05-12 00:06:19	+aName	Not the traders
+2020-05-12 00:06:22	+aName	Which is surprising
+2020-05-12 00:06:26	Hunterkll	not really
+2020-05-12 00:06:33	Hunterkll	lot of the bigger brokers will do that when it's a clear fuckup
+2020-05-12 00:06:51	+aName	Yeah but the dick move is to tell them too bad so sad
+2020-05-12 00:06:52	Hunterkll	robinhood'll offer you $70 tho
+2020-05-12 00:06:54	+aName	So I expected that
+2020-05-12 00:06:54	Hunterkll	and an NDA
+2020-05-12 00:07:23	 *	[DONG]DrGibby farts hard
+2020-05-12 00:07:44	+[DONG]DrGibby	SMELL MY ESSENCE
+2020-05-12 00:08:03	<--	serous (~serous@71.236.18.152) has quit (Quit: Until next time, farewell and fare well!)
+2020-05-12 00:08:11	 *	aName hums 'Sweet Caroline'
+2020-05-12 00:08:20	+aName	BAH BAH BAH
+2020-05-12 00:08:23	Hunterkll	aName, my real question is 'what happened' here - if you went long on a contract that was negative and didn't sell till later or broker forced you out to not settle
+2020-05-12 00:08:26	Hunterkll	you'd have won big
+2020-05-12 00:08:46	Hunterkll	did he think he bought at 1 cent then sell at 2 cents when it was really -3 to -40 ?
+2020-05-12 00:08:47	Hunterkll	like
+2020-05-12 00:08:49	Hunterkll	how's this work
+2020-05-12 00:08:59	Hunterkll	the purchase should have given him money off the bat, and it ended up closing that month's positive
+2020-05-12 00:10:00	Hunterkll	aName, oh even better, CME had literally notified all the brokers "uh, this shit could happen in the coming months, might wanna test "
+2020-05-12 00:10:34	Hunterkll	they claim 5 days wasn't enough to rush a hackjob fix on a separate page ot something
+2020-05-12 00:10:35	Hunterkll	:P
+2020-05-12 00:12:11	+aName	Unrelated Hah!
+2020-05-12 00:12:19	+aName	Just got another video background idea
+2020-05-12 00:12:23	Hunterkll	lol
+2020-05-12 00:12:31	Hunterkll	also, i found the new place for stock tips fucking apparently
+2020-05-12 00:12:38	+aName	Y'all seen 'The Good Place'?
+2020-05-12 00:12:56	Hunterkll	> AMC stock up 40% on a single unconfirmed report that amazon wants to buy them - ..... published in the daily mail ....
+2020-05-12 00:13:02	Hunterkll	british tabloids for stock tips now!
+2020-05-12 00:13:04	+aName	https://i.redd.it/gzypf9qlc0s41.jpg
+2020-05-12 00:13:56	+aName	AMC like, the movie theater company?
+2020-05-12 00:14:00	Hunterkll	yes
+2020-05-12 00:14:06	Hunterkll	https://entertainment.slashdot.org/story/20/05/11/2121200/amcs-stock-is-surging-on-reports-amazon-may-buy-it
+2020-05-12 00:14:08	yuken	Alright - I can't seem to figure this out from googling. How the heck, if this is even possible, would I route a domain to an internal IP? Say - "abc.yuken.xyz" points to my VPS, and I want this routed to "10.0.0.69".
+2020-05-12 00:14:19	+aName	Hunterkll lol they're probably not doing so hot right now
+2020-05-12 00:14:25	Hunterkll	aName, /the daily fucking mail/
+2020-05-12 00:14:29	yuken	I can setup the VPN just fine, but no clue what to do after that.
+2020-05-12 00:14:37	Hunterkll	yuken, ... you run your own DNS server
+2020-05-12 00:14:41	Hunterkll	with different records than external
+2020-05-12 00:14:42	+aName	Hunterkll Yeah, sure, but also, like... *I* could probably buy AMC right now lol
+2020-05-12 00:14:44	Hunterkll	like every AD setup ever
+2020-05-12 00:14:48	yuken	Hunterkll, I don't want this internally.
+2020-05-12 00:14:53	yuken	I want _external_ access.
+2020-05-12 00:14:56	+aName	Hunterkll (OK not really, but you get me)
+2020-05-12 00:15:07	Hunterkll	yuken, reverse proxy then
+2020-05-12 00:15:23	Hunterkll	yuken, vhost entry in apache/nginx to reverse back to whatever the internal box is
+2020-05-12 00:15:27	Hunterkll	if it's a web app
+2020-05-12 00:15:29	Hunterkll	or whatever
+2020-05-12 00:15:32	Hunterkll	if it's not, you'll have to NAT it back
+2020-05-12 00:15:32	yuken	Not a web application or TCP.
+2020-05-12 00:15:41	Hunterkll	then you'll have to do what I do for exchange
+2020-05-12 00:15:46	Hunterkll	NAT it back :>
+2020-05-12 00:15:52	Hunterkll	and then policy based routing outbound
+2020-05-12 00:15:54	Hunterkll	:D
+2020-05-12 00:15:56	yuken	I was thinking it was NAT, but I can't really figure out how to do that.
+2020-05-12 00:15:59	Hunterkll	or maybe just some iptables janky
+2020-05-12 00:16:05	yuken	Everything on Google seems like "VPN + NAT == bad!"
+2020-05-12 00:16:11	Hunterkll	that's how i do exchange
+2020-05-12 00:16:16	Hunterkll	external interface of my linode nats back
+2020-05-12 00:16:24	Hunterkll	all traffic from my exchange box routes out through the linode
+2020-05-12 00:16:28	yuken	hm.
+2020-05-12 00:16:29	Hunterkll	using policy based routing
+2020-05-12 00:16:39	+aName	yuken In my experience, if you have the thought 'man this is way harder than I thought it'd be'
+2020-05-12 00:16:43	+aName	yuken you're doing it wrong
+2020-05-12 00:16:52	yuken	Not necessarily hard, aName - more
+2020-05-12 00:16:55	Hunterkll	aName, I did it because I ran out of external IPv4 locally and can't get more
+2020-05-12 00:16:56	Hunterkll	:>
+2020-05-12 00:16:58	yuken	"I can't even look up anyone who has done this"
+2020-05-12 00:17:02	yuken	"everyone says it's bad"
+2020-05-12 00:17:07	+aName	Hunterkll I'm not saying there aren't exceptions lol
+2020-05-12 00:17:16	yuken	hmm
+2020-05-12 00:17:16	-->	mdel (uid25573@gateway/web/irccloud.com/x-mzprpsptcrnfidsv) has joined #reddit-sysadmin
+2020-05-12 00:17:19	Hunterkll	yuken, but i have an ipsec site-site tunnel on my linode
+2020-05-12 00:17:26	yuken	it's probably more useful if I just, don't include the "VPN" bit and just look up how to do NAT.
+2020-05-12 00:17:40	Hunterkll	.... most likely
+2020-05-12 00:17:45	Hunterkll	also, yes, i'm doing individual ports
+2020-05-12 00:17:46	+aName	yuken And just assume the route because the VPN makes it exist? Yeah
+2020-05-12 00:17:50	Hunterkll	b/c only one IPv4 address
+2020-05-12 00:18:07	yuken	aName, mhmm. I'm just trying to host Minecraft and a few games for some friends, basically.
+2020-05-12 00:18:51	Hunterkll	yuken, looks like i had two sets of selinux rules to fix the ipsec firewall and ifcfg
+2020-05-12 00:18:51	Hunterkll	lol
+2020-05-12 00:18:53	yuken	The hell? my VPS apparently already has iptables. maybe... I can't access it if I'm not root.
+2020-05-12 00:18:59	yuken	yeah that's it.
+2020-05-12 00:19:12	Hunterkll	almost everything has iptables
+2020-05-12 00:19:13	Hunterkll	....
+2020-05-12 00:19:23	yuken	Hunterkll, I setup an SELinux box to do proper reverse proxying to some locally hosted web apps, didn't realise it even had SELinux at first.
+2020-05-12 00:19:46	zephros	god it's so cold in my house... My hands and feet are cold.
+2020-05-12 00:20:03	Hunterkll	yuken, like everything should have selinux....
+2020-05-12 00:20:17	Hunterkll	yuken, i'm just running centos with default config, had to make selinux work for me for ipsec shit to work...
+2020-05-12 00:20:18	yuken	Now, to figure out how to... do... iptables.
+2020-05-12 00:20:24	yuken	er
+2020-05-12 00:20:27	yuken	not SELinux, CentOS, sorry.
+2020-05-12 00:20:27	Hunterkll	BECAUSE I DON'T FUCKING DISABLE SELINUX LIKE A MORON
+2020-05-12 00:20:30	yuken	a CentOS box.
+2020-05-12 00:20:38	+xe0n	lolll the helpdesk are tripping over their own tails
+2020-05-12 00:20:39	Hunterkll	audit2allow is bae
+2020-05-12 00:20:40	+xe0n	too funny
+2020-05-12 00:20:43	+xe0n	so this signature update stuff
+2020-05-12 00:20:44	+xe0n	LOLLL
+2020-05-12 00:20:58	+aName	xe0n I love how long that drags out
+2020-05-12 00:20:59	+xe0n	people arent getting the updated signatures...reason why...they weren't part of the correct groups initially
+2020-05-12 00:21:07	+aName	Like... just give me a template and the input data and I'll apply it
+2020-05-12 00:21:11	+aName	Why is this a thing
+2020-05-12 00:21:18	+xe0n	MARKETING LOL
+2020-05-12 00:21:32	+xe0n	ive said to the helpdesk, stop blind copying users in AD without checking what they're a part of
+2020-05-12 00:21:40	+xe0n	one user in the wrong group, copied 20 times
+2020-05-12 00:21:42	+xe0n	20 people in the wrong group
+2020-05-12 00:21:45	+xe0n	x years
+2020-05-12 00:21:45	+xe0n	LOL
+2020-05-12 00:21:47	+xe0n	enjoy.
+2020-05-12 00:22:01	+aName	So what's the argument against having a template user to copy?
+2020-05-12 00:22:07	yuken	https://www.the-art-of-web.com/system/iptables-nat/ looks pretty self-explanatory.
+2020-05-12 00:22:09	yuken	noice.
+2020-05-12 00:22:22	+xe0n	signatures arent the users responsibility
+2020-05-12 00:22:23	Hunterkll	yuken, the trick is going to be getting your internal box back out
+2020-05-12 00:22:27	+xe0n	and we centrally manage them
+2020-05-12 00:22:32	yuken	hmm.
+2020-05-12 00:22:38	+aName	That way instead of picking a random user you just always copy template.user.accounting or template.user.hr with minimum relevant groups and such
+2020-05-12 00:22:40	Hunterkll	yuken, because you'll have to tell your router to send it's traffic to the vps over the tunnel
+2020-05-12 00:22:41	+xe0n	thats not the issue, the issue is....the users when created were put in the wrong security group for signatures...
+2020-05-12 00:22:47	+xe0n	meaning...they've never had the correct one
+2020-05-12 00:22:47	+xe0n	LOL
+2020-05-12 00:22:54	Hunterkll	yuken, so *just* your internal source IP has to be redirected - this is called policy based routing
+2020-05-12 00:22:59	yuken	Yeah, that sounds a lot tougher.
+2020-05-12 00:23:02	+xe0n	oh no, if they did things right and followed our onboarding process, they'd be fine.
+2020-05-12 00:23:05	+aName	xe0n So they were never added to the right group, not they were members of the wrong one
+2020-05-12 00:23:11	Hunterkll	yuken, i have no idea how to do it in pfsense :D
+2020-05-12 00:23:31	+xe0n	just...they dont, they get over confident, think they remember things and start winging processes
+2020-05-12 00:23:32	+xe0n	idiots..
+2020-05-12 00:23:35	+xe0n	aName, yeah...
+2020-05-12 00:23:35	+xe0n	LOL
+2020-05-12 00:23:42	Hunterkll	yuken, here's my 'direct' rule that is in firewalld that translates into iptables -   <rule priority="0" table="nat" ipv="ipv4" chain="PREROUTING">-i eth0 -p tcp --dport 443 -j DNAT --to 10.100.251.135:443</rule>
+2020-05-12 00:23:42	yuken	Hmm. So, if a user connects from IP A to my VPS (IP B), and then VPS sends that over VPN + NAT to my source...
+2020-05-12 00:23:48	yuken	I need to bring it back to A from B.
+2020-05-12 00:23:51	+aName	xe0n Probably gonna redo most of my onboarding stuff this week. I think there's room to breathe for once.
+2020-05-12 00:23:53	<--	technonerd (~techno@gateway/tor-sasl/technonerd) has quit (Remote host closed the connection)
+2020-05-12 00:24:03	Hunterkll	yuken, right, otherwise your source will try and respond over the regular default route
+2020-05-12 00:24:04	Hunterkll	and die
+2020-05-12 00:24:22	-->	technonerd (~techno@gateway/tor-sasl/technonerd) has joined #reddit-sysadmin
+2020-05-12 00:24:30	Hunterkll	yuken, you might be able to set the default route via a direct connected route, aka 0.0.0.0/0 via 10.0.0.1 dev eth0
+2020-05-12 00:24:31	Hunterkll	type shit
+2020-05-12 00:24:37	yuken	I mean, I could do port-based tunneling/routing instead, and that would be a lot easier. So A connects to B:25565, B connects to C
+2020-05-12 00:24:39	Hunterkll	wait no
+2020-05-12 00:24:40	yuken	C sends information back.
+2020-05-12 00:24:41	Hunterkll	you can't
+2020-05-12 00:24:44	Hunterkll	sourced based routing is bad
+2020-05-12 00:24:48	misspwn	xe0n, probably more like "jim is new and doesn't have a login or email"
+2020-05-12 00:24:55	+aName	xe0n truth be told, what *needs* to happen is for someone to tell me to work on that until it's done rather than me taking it upon myself to fit it in when I can
+2020-05-12 00:24:56	Hunterkll	yuken, ... what
+2020-05-12 00:24:58	misspwn	well when did jim start? "last week"
+2020-05-12 00:25:00	yuken	or is that retarded?
+2020-05-12 00:25:02	+aName	xe0n but whatever
+2020-05-12 00:25:32	+aName	xe0n Easier to make it my problem and not give me time to do it right lol
+2020-05-12 00:25:37	Hunterkll	yuken, ok look it's simple. you turn on masquerade on the linux box, then you do this on the PFsense box - https://docs.netgate.com/pfsense/en/latest/routing/directing-traffic-with-policy-routing.html
+2020-05-12 00:25:44	yuken	wat
+2020-05-12 00:25:46	misspwn	helpdesk doesnt have backbone and rushes to create user and gives them access to HR security groups
+2020-05-12 00:25:46	yuken	there is no PFSense box.
+2020-05-12 00:25:53	Hunterkll	yuken, wait i was confusing you with felda
+2020-05-12 00:25:55	Hunterkll	what kind of router do you have
+2020-05-12 00:26:14	Hunterkll	felda, i'm sorry
+2020-05-12 00:26:26	yuken	None that I have control over.
+2020-05-12 00:26:33	Hunterkll	you're basically fucked
+2020-05-12 00:26:33	yuken	I'm running a VPN from a home server, to a VPS.
+2020-05-12 00:26:58	Hunterkll	unless the required service is running on said 'home server'
+2020-05-12 00:27:00	Hunterkll	that /might/ work
+2020-05-12 00:27:03	yuken	So I can tunnel either by domain or port (whichever is "easier")
+2020-05-12 00:27:04	yuken	It is, Hunterkll.
+2020-05-12 00:27:07	Hunterkll	and you're NATing back straight over the tunnel
+2020-05-12 00:27:09	yuken	Games running on a home server.
+2020-05-12 00:27:12	Hunterkll	routing might not be a concern then
+2020-05-12 00:27:14	yuken	Accessed from the VPS.
+2020-05-12 00:27:19	Hunterkll	so you might be able to just light up masquerade and do the inbound rules
+2020-05-12 00:27:38	Hunterkll	 <rule priority="0" table="nat" ipv="ipv4" chain="PREROUTING">-i eth0 -p tcp --dport 443 -j DNAT --to 10.100.251.135:443</rule>
+2020-05-12 00:27:43	Hunterkll	in direct.xml firewalld lingo
+2020-05-12 00:27:49	Hunterkll	obviously you're probably not doing 443
+2020-05-12 00:27:50	Hunterkll	:LP
+2020-05-12 00:29:21	yuken	How would that actually work though? I can see how that'd route VPS traffic to my home over the VPN
+2020-05-12 00:29:33	yuken	but not vice-versa... unless I just...
+2020-05-12 00:29:35	yuken	I have no clue actually.
+2020-05-12 00:29:40	Hunterkll	NAT'd traffic loks like it's coming from the VPS
+2020-05-12 00:29:44	Hunterkll	so it'd go back to that same source
+2020-05-12 00:29:48	yuken	ah, okay.
+2020-05-12 00:29:57	yuken	that makes a lot more sense. Well, that doesn't seem too hard.
+2020-05-12 00:30:01	+A-KO	waddup
+2020-05-12 00:30:19	yuken	Thanks Hunterkll, I hope that works well.
+2020-05-12 00:30:27	+aName	A-KO Wishing there were more hours in the day
+2020-05-12 00:31:01	Hunterkll	A-KO, my gpus rgb now https://i.imgur.com/YmWaJIg.jpg
+2020-05-12 00:31:12	<--	Pontuzz (~quassel@217-64-149-176.pool.ovpn.com) has quit (Read error: Connection reset by peer)
+2020-05-12 00:31:52	+xe0n	im hungry
+2020-05-12 00:32:03	Hunterkll	i just had wings
+2020-05-12 00:32:04	Hunterkll	so fuck u
+2020-05-12 00:32:10	<--	birchsc (~birchsc@rrcs-24-227-243-195.sw.biz.rr.com) has quit (Read error: Connection reset by peer)
+2020-05-12 00:32:12	+xe0n	MIDDLE FINGER!!
+2020-05-12 00:32:19	Hunterkll	penis
+2020-05-12 00:44:08	-->	zephros (~zephros@2605:a000:1113:6096:9597:cbf3:303f:fc23) has joined #reddit-sysadmin
+2020-05-12 00:44:08	--	Topic for #reddit-sysadmin is "Home of r/sysadmin | No Politics | Can't speak? Register! https://goo.gl/Pp1KQj | New? Try #reddit-sysadmin-support | /r/sysadmingaming | Keep it safe for work. | Don't post personal info. | No emojis."
+2020-05-12 00:44:08	--	Topic set by mistiry (~mistiry@unaffiliated/mistiry) on Sun, 03 May 2020 02:37:08
+2020-05-12 00:44:08	--	Channel #reddit-sysadmin: 423 nicks (6 ops, 12 voices, 405 normals)
+2020-05-12 00:44:12	misspwn	yeah cause he's a moron
+2020-05-12 00:44:14	--	Channel created on Thu, 29 Dec 2011 13:56:36
+2020-05-12 00:44:20	Hunterkll	was restoring a DC from snapshot
+2020-05-12 00:44:21	Hunterkll	 i mean
+2020-05-12 00:44:27	misspwn	eh i'v done it successfully
+2020-05-12 00:44:35	+A-KO	Hunterkll
+2020-05-12 00:44:36	Hunterkll	yes, windows since 2012 is a little saner about it
+2020-05-12 00:44:36	+A-KO	wtf
+2020-05-12 00:44:37	misspwn	am the backups queen
+2020-05-12 00:44:41	+A-KO	I can't see subscriptions in Azure?
+2020-05-12 00:44:44	Hunterkll	A-KO, ?
+2020-05-12 00:44:45	+A-KO	on ako@auth?
+2020-05-12 00:44:58	+A-KO	Failed to retrieve your subscription list, please try again later
+2020-05-12 00:44:58	Hunterkll	what are you trying to do
+2020-05-12 00:45:09	+A-KO	was gonna try and light up Defender ATP on my lab DC
+2020-05-12 00:45:09	+A-KO	lol
+2020-05-12 00:45:15	+A-KO	or Azure ATP really
+2020-05-12 00:45:22	Hunterkll	defender atp doesn't need azure stuff
+2020-05-12 00:45:37	+A-KO	Azure ATP does, security center :D
+2020-05-12 00:46:34	Hunterkll	i gotta look at how that works
+2020-05-12 00:46:40	Hunterkll	multiple AADs syncing in might get fucky
+2020-05-12 00:46:45	Hunterkll	or multiple domains
+2020-05-12 00:47:05	Hunterkll	A-KO, but defender atp at protection.office.com should just light up when you use the enrollment scritp tho
+2020-05-12 00:47:05	Hunterkll	:O
+2020-05-12 00:47:28	Hunterkll	wait is that where it is?
+2020-05-12 00:47:31	Hunterkll	did they move shit around
+2020-05-12 00:47:31	+A-KO	I don't think we have to sync it
+2020-05-12 00:47:57	+A-KO	oh
+2020-05-12 00:47:59	+A-KO	it needs E5
+2020-05-12 00:48:06	Hunterkll	yea uh
+2020-05-12 00:48:07	Hunterkll	no it doesn't
+2020-05-12 00:48:09	Hunterkll	wink wink
+2020-05-12 00:48:18	Hunterkll	my desktop's hooked up to defender ATP just fine
+2020-05-12 00:48:22	Hunterkll	even though it technically shouldn't work
+2020-05-12 00:48:23	Hunterkll	it did
+2020-05-12 00:48:23	Hunterkll	:D
+2020-05-12 00:48:30	+A-KO	not defender ATP you nobhead
+2020-05-12 00:48:38	Hunterkll	Defender ATP requires E5
+2020-05-12 00:48:46	Hunterkll	ah yes
+2020-05-12 00:48:48	Hunterkll	securitycenter.windows.com
+2020-05-12 00:49:09	catbeard	yaaas back it up misspwn
+2020-05-12 00:49:17	+xe0n	snapshots of dcs lol
+2020-05-12 00:49:18	+xe0n	dont
+2020-05-12 00:49:37	+xe0n	totally should do it with exchange in the environment too
+2020-05-12 00:49:52	Hunterkll	A-KO, ya securitycenter.microsoft.com it works in our tenant ...
+2020-05-12 00:50:24	+A-KO	https://portal.atp.azure.com/tenantPortal
+2020-05-12 00:50:28	+A-KO	oh...lol
+2020-05-12 00:50:31	+A-KO	I wonder if we could get this lit up
+2020-05-12 00:51:10	Hunterkll	nope
+2020-05-12 00:51:12	+aName	When the DIY channel tells you not to try something at home...
+2020-05-12 00:51:15	+aName	https://www.youtube.com/watch?v=zcpDGKH9_SE
+2020-05-12 00:51:17	Hunterkll	"Renew your license to access your azure atp instance"
+2020-05-12 00:51:33	Hunterkll	it drops me into the MS support queue
+2020-05-12 00:51:34	Hunterkll	lol
+2020-05-12 00:51:53	+xe0n	ticket refunded: customer is a dropkick and didnt have E5 licenses
+2020-05-12 00:52:08	Hunterkll	lol
+2020-05-12 00:52:13	Hunterkll	i wouldn't open this ticket
+2020-05-12 00:52:20	Hunterkll	xe0n, tho defender ATP working without E5 confuses me but whateverrrr
+2020-05-12 00:52:21	Hunterkll	lol
+2020-05-12 00:52:49	+xe0n	NEW APPLE TV WITH A12XXXXXXXXXXXX DROPPING SOON
+2020-05-12 00:52:54	+xe0n	HOW MANY THOUSAND ARE PEOPLE BUYING
+2020-05-12 00:52:57	+xe0n	NEW PORN STREAM BOX
+2020-05-12 00:53:01	+xe0n	WITH SO MUCH POWER FOR HDR
+2020-05-12 00:53:54	Hunterkll	A-KO, hey if you wanna spring for an E5 license lol
+2020-05-12 00:54:22	+A-KO	Hunterkll: I'm still questioning why it keeps telling me we don't have an azure sub
+2020-05-12 00:54:26	+A-KO	considering we get like $100/month of credit
+2020-05-12 00:54:52	Hunterkll	subs might be per account with how jacked this is
+2020-05-12 00:55:05	Hunterkll	because I have (DISABLED) subs from like 3 years ago and shit
+2020-05-12 00:55:08	+A-KO	you might have to grant me rights in the sub
+2020-05-12 00:56:08	+xe0n	you're a sub
+2020-05-12 00:56:22	<--	JK-47 (jk@2600:3c03::f03c:91ff:fe73:fc8) has quit (Quit: Leaving.)
+2020-05-12 00:56:42	Hunterkll	jesus
+2020-05-12 00:56:48	Hunterkll	A-KO, $15/server/month for security center
+2020-05-12 00:56:51	Hunterkll	lol
+2020-05-12 00:57:04	+A-KO	yeah you're using that $100/month aren't you?
+2020-05-12 00:57:06	+A-KO	bastard :P
+2020-05-12 00:57:12	Hunterkll	not in a while
+2020-05-12 00:57:13	+xe0n	REKT
+2020-05-12 00:57:13	+xe0n	RIP
+2020-05-12 00:57:29	Hunterkll	i've been meaning to set up an S2S failover
+2020-05-12 00:57:30	Hunterkll	lol
+2020-05-12 00:57:37	Hunterkll	to extend the shit you should be connected to
+2020-05-12 00:57:38	Hunterkll	but you're not
+2020-05-12 00:57:57	Hunterkll	but right now i'm not tapping it at all, i'm just trying to remember which reivisoni of the azure cert i have to remember to figure out the access grants
+2020-05-12 00:58:00	Hunterkll	LOL
+2020-05-12 00:59:28	Hunterkll	....
+2020-05-12 00:59:31	Hunterkll	A-KO, you have global administrator
+2020-05-12 01:00:40	Hunterkll	A-KO, i added billing administrator if that helps at all ??
+2020-05-12 01:01:15	aleph-	Alright security camera is up, so that's good
+2020-05-12 01:01:29	catbeard	aleph-: i see that, gj
+2020-05-12 01:01:32	<--	Gentilhomme (566a7951@gateway/web/cgi-irc/kiwiirc.com/ip.86.106.121.81) has quit (Ping timeout: 272 seconds)
+2020-05-12 01:01:42	catbeard	i mean uh.. -looks around-
+2020-05-12 01:01:55	aleph-	Hmm?
+2020-05-12 01:03:10	Hunterkll	A-KO, i added you as a co-administrator on the PAYG and monthly ones, maybe that helps
+2020-05-12 01:03:17	Hunterkll	now that i found how
+2020-05-12 01:03:52	<--	agent_white (~agent_whi@unaffiliated/agent-white/x-6197888) has quit (Read error: Connection reset by peer)
+2020-05-12 01:04:01	Hunterkll	try not to fuck anything that'll replicate back
+2020-05-12 01:04:06	Hunterkll	and get your fuckin router sorted out
+2020-05-12 01:04:08	Hunterkll	:)
+2020-05-12 01:04:30	+xe0n	TPLINK
+2020-05-12 01:04:37	-->	agent_white (~agent_whi@unaffiliated/agent-white/x-6197888) has joined #reddit-sysadmin
+2020-05-12 01:04:53	catbeard	i've seen a tplink catch on fire
+2020-05-12 01:05:04	+xe0n	downloading too fast
+2020-05-12 01:05:09	catbeard	during an arp storm actually
+2020-05-12 01:06:01	catbeard	box was getting smashed and someone unplugged the rack switch
+2020-05-12 01:07:08	Hunterkll	ill unplug ye cunt
+2020-05-12 01:07:10	Hunterkll	>:3
+2020-05-12 01:07:34	catbeard	back before riverheads
+2020-05-12 01:10:59	misspwn	catbeard, i threw up all of my chips/salsa/guac
+2020-05-12 01:11:11	catbeard	why
+2020-05-12 01:11:27	+A-KO	oh nice
+2020-05-12 01:11:29	misspwn	was choking on my spit and coughing which lead to me gagging and i didn't get the toilet lid up in time so it went everywhere
+2020-05-12 01:11:33	+A-KO	my lab DC is only 17ms off of time.nist.gov
+2020-05-12 01:11:38	misspwn	had to spend like 20 minutes cleaning the bathroom
+2020-05-12 01:11:38	+aName	misspwn Oh that's the worst
+2020-05-12 01:11:39	catbeard	ah that sux
+2020-05-12 01:11:43	Hunterkll	A-KO, neeeerd
+2020-05-12 01:11:53	+aName	not even sick, just muscles being like 'umm... amidoinitrite?'
+2020-05-12 01:11:56	c|oneman	but, did you get the porn tears also?
+2020-05-12 01:12:02	catbeard	i thought you liked gagging
+2020-05-12 01:12:03	misspwn	yep body rejected it i guess to prevent me from dying
+2020-05-12 01:12:11	misspwn	but it got on the walls
+2020-05-12 01:12:11	catbeard	xD
+2020-05-12 01:12:25	c|oneman	I dont throw up when im sick. i suffer for 24h
+2020-05-12 01:12:29	catbeard	to the windoooooooow to the waallllll
+2020-05-12 01:12:42	c|oneman	20 seconds of extreme pain bad, 24 hours of almost extreme pain good
+2020-05-12 01:12:43	Hunterkll	A-KO, changes i might need to rebuild my storage space? :D "Unrecognized mirror" da fuq is that
+2020-05-12 01:12:44	misspwn	we have that awesome matte paint too so now theres like splotches
+2020-05-12 01:12:55	catbeard	it's art!
+2020-05-12 01:12:56	Hunterkll	its only the lesser D tho
+2020-05-12 01:13:07	misspwn	aName, that's so fucking embarassing
+2020-05-12 01:13:17	aleph-	God I fucking hate this roommate
+2020-05-12 01:13:28	aleph-	A-KO: Nice
+2020-05-12 01:13:54	+A-KO	ugh I won't be able to get the most accurate time out of this
+2020-05-12 01:13:59	+A-KO	latency to time.nist.gov is too high lol
+2020-05-12 01:14:13	catbeard	how about 0.pool.ntp.org
+2020-05-12 01:14:14	+aName	misspwn Most embarassing vomit was at my buddy's party - I was like two beers deep but they weren't sitting right... ended up looking like a total lightweight lol
+2020-05-12 01:14:28	+A-KO	catbeard: I've got 0-3.us.pool.ntp.org added as well as time.nist.gov
+2020-05-12 01:14:33	Hunterkll	A-KO, i have this odd feeling you'll be fine....
+2020-05-12 01:14:35	+A-KO	to give the 5 server truechimer detection
+2020-05-12 01:14:41	+aName	misspwn All over his bathroom door lol
+2020-05-12 01:14:45	misspwn	oh lawd
+2020-05-12 01:14:54	catbeard	A-KO: tock.usno.navy.mil
+2020-05-12 01:15:00	+aName	I made it to the bathroom in time, mind
+2020-05-12 01:15:04	+aName	Someone was in there
+2020-05-12 01:15:07	+A-KO	catbeard: according to MS they 'guarantee' 1 second accuracy if the cumulative one-way latency isn't above 100ms
+2020-05-12 01:15:09	+A-KO	and well
+2020-05-12 01:15:14	+A-KO	time.nist.gov over IPv6 blows past that
+2020-05-12 01:15:15	+A-KO	hahaha
+2020-05-12 01:15:16	misspwn	man i'm just glad i didn't eat the spicy salsa
+2020-05-12 01:15:33	misspwn	i was goin to town on those tortilla chips just a bit ago
+2020-05-12 01:15:46	+A-KO	Tracking tock.usno.navy.mil [192.5.41.41:123].
+2020-05-12 01:15:47	+A-KO	The current time is 5/11/2020 10:15:34 PM.
+2020-05-12 01:15:47	+A-KO	22:15:34, d:+00.0770711s o:+00.0012809s  [                           *                           ]
+2020-05-12 01:15:47	+A-KO	22:15:36, d:+00.0776154s o:+00.0012288s  [                           *                           ]
+2020-05-12 01:15:47	+A-KO	22:15:38, d:+00.0771522s o:+00.0010103s  [                           *                           ]
+2020-05-12 01:15:47	+A-KO	22:15:40, d:+00.0862083s o:-00.0044976s  [                           *                           ]
+2020-05-12 01:15:53	+A-KO	catbeard: :D
+2020-05-12 01:15:56	Hunterkll	lol
+2020-05-12 01:16:02	Hunterkll	A-KO, my motherboard has a jumper on it
+2020-05-12 01:16:04	Hunterkll	just one
+2020-05-12 01:16:06	Hunterkll	a relic of ages past
+2020-05-12 01:16:09	 *	catbeard bakes some pizza for misspwn
+2020-05-12 01:16:19	Hunterkll	sadly, it's only to enable liquid nitrogen mode
+2020-05-12 01:16:24	Hunterkll	not something like change the last IRQ
+2020-05-12 01:16:25	Hunterkll	:'(
+2020-05-12 01:16:31	aleph-	Man I want some pizza
+2020-05-12 01:16:34	+aName	catbeard I should make some pizza dough
+2020-05-12 01:16:35	aleph-	None for me >_>
+2020-05-12 01:16:37	 *	aName doesn't
+2020-05-12 01:16:41	aleph-	misspwn: Still ill somehow
+2020-05-12 01:16:48	aleph-	I'm really wondering what the fuck I ate
+2020-05-12 01:16:48	+A-KO	Hunterkll: I'm setting all this up to do some go dev
+2020-05-12 01:16:50	+A-KO	with kerberos
+2020-05-12 01:16:56	Hunterkll	O.o
+2020-05-12 01:16:59	+aName	Dough is like 'Hey you wanna eat tomorrow?'
+2020-05-12 01:16:59	misspwn	aleph-, what did you eat the day before the brunch thing
+2020-05-12 01:17:07	catbeard	A-KO: that good or bad
+2020-05-12 01:17:14	aleph-	Some green beans... a burrito, some ramen
+2020-05-12 01:17:18	aleph-	That's about it
+2020-05-12 01:17:23	+A-KO	catbeard: depends on who you ask. I think it's good ; but a good GPS clock will do better
+2020-05-12 01:17:24	+A-KO	lol
+2020-05-12 01:17:29	+A-KO	but I do not have that luxury atm so
+2020-05-12 01:17:31	aleph-	Maybe some fresh eggs, gotten that week
+2020-05-12 01:17:36	aleph-	S'why it's so weird
+2020-05-12 01:17:43	misspwn	it's gota be that french toast thing man
+2020-05-12 01:17:51	catbeard	some fuckin franch toast
+2020-05-12 01:17:58	@JollyRgrs	still sick?
+2020-05-12 01:17:59	aleph-	Yeah probably
+2020-05-12 01:18:01	misspwn	unless you got ecoli from the eggs
+2020-05-12 01:18:01	aleph-	JollyRgrs: Yeee
+2020-05-12 01:18:06	<--	paradoxguitarist (uid288518@gateway/web/irccloud.com/x-bkxehhqwtnddhaoi) has quit (Quit: Connection closed for inactivity)
+2020-05-12 01:18:06	@JollyRgrs	geez
+2020-05-12 01:18:08	misspwn	don't yall keep your eggs out of the fridge/
+2020-05-12 01:18:10	-->	kdc (~kdc@ratel.09.co.za) has joined #reddit-sysadmin
+2020-05-12 01:18:10	@JollyRgrs	might just be a virus
+2020-05-12 01:18:18	@JollyRgrs	even... cov....
+2020-05-12 01:18:19	catbeard	i got some fresh chicken eggs from a friend
+2020-05-12 01:18:20	@JollyRgrs	id
+2020-05-12 01:18:21	misspwn	poop eggs
+2020-05-12 01:18:21	catbeard	best eggs ever
+2020-05-12 01:18:23	aleph-	JollyRgrs: Also my nu roommmate might be a crackhead/is probably on uppers
+2020-05-12 01:18:30	aleph-	misspwn: Wait, why out of the fridge?
+2020-05-12 01:18:45	misspwn	when i lived overseas eggs just sat at room temp
+2020-05-12 01:18:57	catbeard	thought about making a giant omelette with an air fryer
+2020-05-12 01:19:16	Hunterkll	"HIGH AMP FAN CONNECTOR"
+2020-05-12 01:19:19	Hunterkll	lets see what this fucker does on max
+2020-05-12 01:19:20	aleph-	misspwn: Weirdddd
+2020-05-12 01:19:25	misspwn	i know!
+2020-05-12 01:19:40	misspwn	but fresh eggs need to be handled with more care than our pressure washed bleach eggs
+2020-05-12 01:20:04	misspwn	get a little bit of that dookie in your food and you've got that ecoli brotha
+2020-05-12 01:20:17	misspwn	i got ecoli from a greek salad and it was comin out both ends for 9 days
+2020-05-12 01:20:30	Hunterkll	i think i just turned my computer into a wind tunnel
+2020-05-12 01:20:39	Hunterkll	and am really confused at some of this PWM feedback
+2020-05-12 01:20:41	aleph-	Hunterkll: Rad
+2020-05-12 01:20:43	catbeard	always choose caesar salad
+2020-05-12 01:20:47	+aName	misspwn Didn't even get the good kind of ecoli
+2020-05-12 01:20:49	catbeard	let that be a lesson
+2020-05-12 01:21:00	aleph-	misspwn: Yeah gonna probably take half of tomorrow off except for some meetings/light work since I still have a ton to do
+2020-05-12 01:21:03	misspwn	yea i was doing keto. everyone got pizza and i chose to be good by eatin salad
+2020-05-12 01:21:06	misspwn	fuckin did me in
+2020-05-12 01:21:18	+A-KO	http://www.unixwiz.net/techtips/raspberry-pi3-gps-time.html
+2020-05-12 01:21:25	+A-KO	could build a rasperri pi gps clock
+2020-05-12 01:21:33	+A-KO	wonder how accurate it would be
+2020-05-12 01:21:34	+A-KO	hmmm
+2020-05-12 01:22:01	catbeard	so one of the eggs i was given was um.. not yet hatched, didn't quite make it
+2020-05-12 01:22:10	+aName	I mean... at that point just load linux onto a phone and run an NTP server?
+2020-05-12 01:22:14	catbeard	broke it open and this black carcass oozed out
+2020-05-12 01:22:20	+aName	It'll already have a GPS module
+2020-05-12 01:22:43	+aName	in b4  'but android IS linux'
+2020-05-12 01:22:55	misspwn	ewww
+2020-05-12 01:23:23	catbeard	my roomie "oh man, that's not gonna taste very good"
+2020-05-12 01:23:57	misspwn	10/10 would not have dibs on that egg
+2020-05-12 01:24:12	catbeard	"all you broham"
+2020-05-12 01:25:31	catbeard	i did however find out that the dog will eat most anything
+2020-05-12 01:25:47	+aName	At least it's not a century egg
+2020-05-12 01:25:57	catbeard	if he could speak he probably would have said "mmm tastes like chicken"
+2020-05-12 01:26:07	+aName	Dated a chinese woman for a couple years, got to learn about those
+2020-05-12 01:26:12	 *	aName hurks
+2020-05-12 01:28:14	Hunterkll	A-KO, LOL my C SSD's temperature is like fucking 15c lower now
+2020-05-12 01:28:15	Hunterkll	hahahaha
+2020-05-12 01:28:29	+aName	Hunterkll ... did you water cool your disks?
+2020-05-12 01:28:33	Hunterkll	aName, no
+2020-05-12 01:28:46	Hunterkll	aName, 2TB 960 Pro mounts under a sheild .... under where the GPUs extend over
+2020-05-12 01:29:06	+aName	Hunterkll And they don't have hot air blowing at them now
+2020-05-12 01:29:23	Hunterkll	well, no GPU dumping directly into it anyway
+2020-05-12 01:29:31	+aName	Gotcha
+2020-05-12 01:29:35	Hunterkll	https://static.bhphoto.com/images/images2000x2000/1503507976_1356680.jpg
+2020-05-12 01:29:41	Hunterkll	SSD's under the ROG black logo thing
+2020-05-12 01:29:47	Hunterkll	i think
+2020-05-12 01:30:05	Hunterkll	no no
+2020-05-12 01:30:13	Hunterkll	it's under that panel before the last PCIe slot
+2020-05-12 01:30:15	Hunterkll	the one that has a screw in it
+2020-05-12 01:30:21	+xe0n	im hungry
+2020-05-12 01:30:21	Hunterkll	so it's literally underneath the second GPU in my SLI setup
+2020-05-12 01:30:22	Hunterkll	lol
+2020-05-12 01:30:30	+xe0n	HEAT ON THE STREET
+2020-05-12 01:30:31	Hunterkll	https://images.tweaktown.com/content/8/3/8368_10_asus-rog-rampage-vi-extreme-motherboard-review.jpg
+2020-05-12 01:30:32	Hunterkll	right there
+2020-05-12 01:30:33	+xe0n	NOW AT YOUR FEEET
+2020-05-12 01:30:41	Hunterkll	shit
+2020-05-12 01:30:46	Hunterkll	i need to get an LED sli bridge now
+2020-05-12 01:30:47	Hunterkll	LOL
+2020-05-12 01:30:54	+xe0n	nerd
+2020-05-12 01:31:08	 *	aName busts xe0n's bubble
+2020-05-12 01:31:18	+aName	You better beware, buddy.
+2020-05-12 01:31:20	Hunterkll	womp womp
+2020-05-12 01:31:21	+xe0n	:D
+2020-05-12 01:31:29	+xe0n	ok smoke and food
+2020-05-12 01:31:30	+xe0n	brb
+2020-05-12 01:31:34	+xe0n	probably in that order
+2020-05-12 01:32:50	@JollyRgrs	xe0n: https://www.gifyourgame.com/WillyardCrowningElderhomac
+2020-05-12 01:33:34	+aName	lol that URL tho
+2020-05-12 01:33:47	+aName	I thought you were linking to a nursing home at first
+2020-05-12 01:34:00	@JollyRgrs	lol
+2020-05-12 01:34:01	+xe0n	NICE
+2020-05-12 01:34:07	+xe0n	i played a few good games last night, partied up
+2020-05-12 01:34:09	@JollyRgrs	we lost :(
+2020-05-12 01:34:13	+xe0n	i was MVP
+2020-05-12 01:34:14	+xe0n	TWICE
+2020-05-12 01:34:21	@JollyRgrs	we were down 1-4, that was the come back, they scored again with 0:15 left
+2020-05-12 01:34:22	+xe0n	(everyone was really shit)
+2020-05-12 01:34:23	@JollyRgrs	NICE!
+2020-05-12 01:34:27	@JollyRgrs	you'll be champ soon enough!
+2020-05-12 01:34:33	+xe0n	I TIERED UP
+2020-05-12 01:34:36	+xe0n	FUCKING 8 NOW
+2020-05-12 01:34:37	+xe0n	:D
+2020-05-12 01:34:39	@JollyRgrs	awesome
+2020-05-12 01:34:39	+xe0n	SEE THAT HUNTER
+2020-05-12 01:34:58	Hunterkll	can't teabag people in it, don't care
+2020-05-12 01:35:09	+aName	yes you can
+2020-05-12 01:35:14	@JollyRgrs	i'm gonna go hate myself for a few attempts at not screwing up for 11 laps on this stupid race, then hit the sack i think
+2020-05-12 01:35:18	Hunterkll	aName, wait, this isn't RL?
+2020-05-12 01:35:20	Hunterkll	the fuck
+2020-05-12 01:35:20	Hunterkll	lol
+2020-05-12 01:35:55	+aName	Hunterkll Just gotta hover boost
+2020-05-12 01:37:05	+aName	xe0n Did you know that pubs in Australia are legally required to provide somewhere to hitch and water your horse?
+2020-05-12 01:38:10	yuken	Hunterkll, can I specify a domain for an iptables source rather than an IP address?
+2020-05-12 01:38:16	yuken	So only X domain will be forwarded?
+2020-05-12 01:38:54	Hunterkll	nope
+2020-05-12 01:39:17	Hunterkll	yuken, the way DNS magic works with that is a web browser sends the hostname it's requesting in its request - other software doesn't do that
+2020-05-12 01:39:24	Hunterkll	so a web server can answer for multiple domains on one IP, but only that
+2020-05-12 01:40:18	catbeard	yuken: you can do it with maybe string match
+2020-05-12 01:40:19	yuken	ah. so if I want to do that, I need to find or write something to do it for me.
+2020-05-12 01:40:31	catbeard	or u32 with the right flags
+2020-05-12 01:40:44	Hunterkll	catbeard, that comes into fancy reverse proxy type territory
+2020-05-12 01:42:59	yuken	Port-based for games and just nginx for any websites seems good 'nuff for me then.
+2020-05-12 01:50:25	-->	dfacto9 (~qwerty@unaffiliated/xparanoik) has joined #reddit-sysadmin
+2020-05-12 01:55:57	<--	dfacto (~qwerty@unaffiliated/xparanoik) has quit (Ping timeout: 272 seconds)
+2020-05-12 01:55:57	<--	Belinnon (~rubik@141.226.212.149) has quit (Read error: Connection reset by peer)
+2020-05-12 01:55:57	<--	zephros (~zephros@2605:a000:1113:6096:9597:cbf3:303f:fc23) has quit (Ping timeout: 260 seconds)
+2020-05-12 01:55:57	--	irc: disconnected from server
+2020-05-12 01:56:15	-->	zephros (zephros@gateway/vpn/privateinternetaccess/zephros) has joined #reddit-sysadmin
+2020-05-12 01:56:15	--	Topic for #reddit-sysadmin is "Home of r/sysadmin | No Politics | Can't speak? Register! https://goo.gl/Pp1KQj | New? Try #reddit-sysadmin-support | /r/sysadmingaming | Keep it safe for work. | Don't post personal info. | No emojis."
+2020-05-12 01:56:15	--	Topic set by mistiry (~mistiry@unaffiliated/mistiry) on Sun, 03 May 2020 02:37:08
+2020-05-12 01:56:15	--	Channel #reddit-sysadmin: 420 nicks (6 ops, 12 voices, 402 normals)
+2020-05-12 01:56:32	--	Channel created on Thu, 29 Dec 2011 13:56:36
+2020-05-12 01:57:18	-->	Belinnon (~rubik@141.226.212.149) has joined #reddit-sysadmin
+2020-05-12 01:58:24	Alternity	wow 2070 supers are going for 500 on ebay
+2020-05-12 01:58:37	Alternity	that's what i paid almost a year ago for one new
+2020-05-12 01:59:20	Alternity	looks like they're all sold out, supply and demand
+2020-05-12 02:00:07	<--	korzq (~korzq@unaffiliated/korzq) has quit (Quit: The Lounge - https://thelounge.chat)
+2020-05-12 02:00:10	<--	alazare619 (~alazare61@unaffiliated/alazare619) has quit (Quit: ZNC 1.8.0 - https://znc.in)
+2020-05-12 02:02:07	-->	alazare619 (~alazare61@unaffiliated/alazare619) has joined #reddit-sysadmin
+2020-05-12 02:04:32	-->	korzq (~korzq@unaffiliated/korzq) has joined #reddit-sysadmin
+2020-05-12 02:07:11	+aName	 You ever watch a video and then notice they only have like... a couple hundred subs even though it feels like a channel that should have more?
+2020-05-12 02:08:03	catbeard	that's like meeting a hottie you've seen for a while, but never gotten to know, only to find out she cray
+2020-05-12 02:08:12	catbeard	then it dawns on you
+2020-05-12 02:13:39	+aName	Hrm, I wonder what format OBS wants LUTS in. OBS LUTS, if you will.
+2020-05-12 02:19:19	ThatOneRoadie	1080Ti FTW3 from EVGA direct on an RMA is $799.99
+2020-05-12 02:19:23	ThatOneRoadie	I paid $750 3 years ago
+2020-05-12 02:19:31	ThatOneRoadie	it's $1,299 on amazon right now
+2020-05-12 02:19:32	ThatOneRoadie	lmfao
+2020-05-12 02:21:40	<--	Takios (~takios@2a02:8108:8c40:2254:3e1d:83a6:89de:c58c) has quit (Ping timeout: 256 seconds)
+2020-05-12 02:21:49	-->	Takios__ (~takios@ip5f5abe88.dynamic.kabel-deutschland.de) has joined #reddit-sysadmin
+2020-05-12 02:21:56	Alternity	crazy right?
+2020-05-12 02:22:02	Alternity	everything is sold out and ppl wanna game i guess
+2020-05-12 02:22:21	Alternity	also that's retail
+2020-05-12 02:22:29	Alternity	you need to be checking completed auction pricing on ebay
+2020-05-12 02:22:34	Alternity	to get a better idea of going value
+2020-05-12 02:22:50	Alternity	any bozo on amazon can charge $99,999 for whatever
+2020-05-12 02:23:26	+aName	fuckin BTC man
+2020-05-12 02:23:34	catbeard	selling dates with cryptic1's mom, starting bid is $1
+2020-05-12 02:26:25	aleph-	$0.001
+2020-05-12 02:28:56	-->	palasso (~palasso@unaffiliated/palasso) has joined #reddit-sysadmin
+2020-05-12 02:29:39	catbeard	i know i'm overcharging here but cmon
+2020-05-12 02:33:23	aleph-	$0.01
+2020-05-12 02:33:51	catbeard	that's better
+2020-05-12 02:34:01	catbeard	i have $0.01 can i get $0.05
+2020-05-12 02:34:51	+aName	Remember, you have to take physical delivery - you can't just bid on the contract, guys
+2020-05-12 02:34:59	+aName	Where are you going to store a cryptic1's mom?
+2020-05-12 02:35:31	catbeard	i mean i'll have to take her out of the freezer to thaw first
+2020-05-12 02:36:21	catbeard	the bid includes the moist towelettes for her chin
+2020-05-12 02:36:32	<--	Miner_48er (~Miner_48e@216.237.232.10) has quit (Quit: Leaving)
+2020-05-12 02:37:40	+aName	Watching this video explaining why 'The Thief And The Cobbler' is an unfinished masterpiece.
+2020-05-12 02:37:47	+aName	And this one bit..
+2020-05-12 02:37:57	+aName	It's like, ok so you know how hard hands are to draw?
+2020-05-12 02:38:04	catbeard	you know, like the hot ones you get at the japanese steakhouse
+2020-05-12 02:38:14	+aName	Let's have a dude with 14 knuckles on each hand climb a mountain made of hands.
+2020-05-12 02:38:21	catbeard	or the one the barber wipes your neck with
+2020-05-12 02:38:44	+aName	catbeard Now you got me craving some of that swiss chalet sauce
+2020-05-12 02:38:50	-->	Bideford (Bideford@unaffiliated/bideford) has joined #reddit-sysadmin
+2020-05-12 02:41:08	kunningd	catbeard how bad is the power consumption on that HP ProLiant DL360 G7 you've mentioned the other day compared to a normal PC?
+2020-05-12 02:41:19	catbeard	dual 750W
+2020-05-12 02:42:00	ThatOneRoadie	Well that's the PSU
+2020-05-12 02:42:09	ThatOneRoadie	but the actual consumption isn't much worse
+2020-05-12 02:42:09	+xe0n	no thats the robber's hard drive
+2020-05-12 02:42:29	+xe0n	haha dl360 g7
+2020-05-12 02:42:34	+xe0n	i got one of those in the cupboard
+2020-05-12 02:42:55	catbeard	drinkin outta cups
+2020-05-12 02:42:57	catbeard	being a bitch
+2020-05-12 02:43:07	ThatOneRoadie	I've got an R610 hanging around with ssd's in it
+2020-05-12 02:43:08	+xe0n	plastic cups
+2020-05-12 02:43:20	ThatOneRoadie	according to the power meter, 260 watts right now
+2020-05-12 02:43:22	ThatOneRoadie	give or take
+2020-05-12 02:43:27	+xe0n	giggawatts
+2020-05-12 02:43:28	+xe0n	whats
+2020-05-12 02:44:02	catbeard	a gig of whats
+2020-05-12 02:44:11	ThatOneRoadie	A gig of bits?
+2020-05-12 02:44:14	+aName	https://www.youtube.com/watch?v=wLthw2YWb4s
+2020-05-12 02:44:20	+aName	but 'what?'
+2020-05-12 02:44:41	+aName	I can't actually produce that in time to make the joke
+2020-05-12 02:44:44	+aName	but imagine I did
+2020-05-12 02:45:01	kunningd	ThatOneRoadie: so it adjusts to the load on the rack?
+2020-05-12 02:45:14	ThatOneRoadie	What, like, the PSU on a server?
+2020-05-12 02:45:16	catbeard	i was thinking the scene from 40YOV where they discuss anal sex
+2020-05-12 02:45:22	ThatOneRoadie	Yeah it doesn't draw the entire rated wattage 24/7
+2020-05-12 02:45:24	ThatOneRoadie	that'd be insane
+2020-05-12 02:45:29	catbeard	BUTT WHAT
+2020-05-12 02:45:34	kunningd	ok thanks
+2020-05-12 02:45:42	ThatOneRoadie	My Blade Center would be a fucking furnace with the 6x 2000 watt PSU's in it
+2020-05-12 02:45:50	catbeard	ThatOneRoadie: depends what you do with it
+2020-05-12 02:46:15	ThatOneRoadie	catbeard: I've *never* managed to get a server to 100% of N on the rated wattage
+2020-05-12 02:46:25	catbeard	you're not trying hard enough
+2020-05-12 02:46:49	ThatOneRoadie	I've got servers with 4x Tesla V100's and a half dozen drives in them and it only pulls about 1kw
+2020-05-12 02:47:08	catbeard	those are rookie numbers
+2020-05-12 02:47:12	ThatOneRoadie	1-1.4kw depending on the Tesla loading
+2020-05-12 02:47:17	ThatOneRoadie	fuckers are spikey
+2020-05-12 02:47:25	ThatOneRoadie	280w each one second, 70w each the next
+2020-05-12 02:57:58	-->	ihre (535656c4@gateway/web/cgi-irc/kiwiirc.com/ip.83.86.86.196) has joined #reddit-sysadmin
+2020-05-12 02:59:13	kunningd	after watching charts for a while I wonder why the crypto exchanges didn't decide to create funds you can buy, like shitcoin funds
+2020-05-12 02:59:32	kunningd	500 shitcoins bundled into one fund you can purchase
+2020-05-12 03:02:52	+aName	People would, rightly, I think, ask why they don't just purchase those coins themselves.
+2020-05-12 03:07:40	<--	ghost43_ (~daer@gateway/tor-sasl/daer) has quit (Remote host closed the connection)
+2020-05-12 03:08:36	-->	ghost43 (~daer@gateway/tor-sasl/daer) has joined #reddit-sysadmin
+2020-05-12 03:09:15	ihre	https://i.redd.it/twczyo4bx5y41.jpg looks like a render, lol
+2020-05-12 03:10:55	kunningd	is that a real snek?
+2020-05-12 03:11:05	kunningd	looks like a 3d printed snek
+2020-05-12 03:11:51	+aName	https://www.youtube.com/watch?v=qFOX3AO2FjE
+2020-05-12 03:12:14	+aName	If we're talking about real stuff that looks unreal

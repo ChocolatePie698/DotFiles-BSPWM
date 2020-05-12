@@ -1,0 +1,109 @@
+2020-05-12 00:01:46	-->	zephros (~zephros@2605:a000:1113:6096:9597:cbf3:303f:fc23) has joined #weechat
+2020-05-12 00:01:46	--	Topic for #weechat is "https://weechat.org/ | Latest stable version: 2.8 | English support channel, *ONLY* about WeeChat software | Please read docs before asking! | Bug reports are welcome ONLY for latest stable or devel | Off-topic chan: #weechat-offtopic | Fingerprint: A9AB 5AB7 78FA 5C35 22FD 0378 F82F 4B16 DEC4 08F8"
+2020-05-12 00:01:46	--	Topic set by FlashCode (~FlashCode@weechat.org) on Sun, 29 Mar 2020 04:09:00
+2020-05-12 00:01:46	--	Channel #weechat: 857 nicks (4 ops, 1 voice, 852 normals)
+2020-05-12 00:01:46	--	PvNotice(ChanServ): Welcome to WeeChat english support channel. IMPORTANT: you *MUST* have read docs and FAQ before asking something on this channel! Read them at: https://weechat.org/doc/
+2020-05-12 00:01:46	--	URL for #weechat: https://weechat.org/
+2020-05-12 00:01:48	--	Channel created on Sun, 26 Nov 2006 01:42:51
+2020-05-12 00:06:56	<--	well_laid_lawn (~Jean-luc@115-64-218-237.tpgi.com.au) has quit (Quit: WeeChat 2.8)
+2020-05-12 00:09:47	<--	chunkhang (~chunkhang@2001:d08:1283:e814:d089:dd5a:c7:2429) has quit (Ping timeout: 260 seconds)
+2020-05-12 00:09:54	--	rasdark|aw is now known as rasdark
+2020-05-12 00:19:20	-->	chunkhang (~chunkhang@175.140.78.142) has joined #weechat
+2020-05-12 00:20:20	-->	nickodd (~nickodd@unaffiliated/nickodd) has joined #weechat
+2020-05-12 00:24:10	<--	chunkhang (~chunkhang@175.140.78.142) has quit (Ping timeout: 272 seconds)
+2020-05-12 00:28:42	-->	chunkhang (~chunkhang@175.140.78.142) has joined #weechat
+2020-05-12 00:31:12	<--	Pontuzz (~quassel@217-64-149-176.pool.ovpn.com) has quit (Read error: Connection reset by peer)
+2020-05-12 00:44:08	-->	zephros (~zephros@2605:a000:1113:6096:9597:cbf3:303f:fc23) has joined #weechat
+2020-05-12 00:44:08	--	Topic for #weechat is "https://weechat.org/ | Latest stable version: 2.8 | English support channel, *ONLY* about WeeChat software | Please read docs before asking! | Bug reports are welcome ONLY for latest stable or devel | Off-topic chan: #weechat-offtopic | Fingerprint: A9AB 5AB7 78FA 5C35 22FD 0378 F82F 4B16 DEC4 08F8"
+2020-05-12 00:44:08	--	Topic set by FlashCode (~FlashCode@weechat.org) on Sun, 29 Mar 2020 04:09:00
+2020-05-12 00:44:08	--	Channel #weechat: 857 nicks (4 ops, 1 voice, 852 normals)
+2020-05-12 00:44:09	--	PvNotice(ChanServ): Welcome to WeeChat english support channel. IMPORTANT: you *MUST* have read docs and FAQ before asking something on this channel! Read them at: https://weechat.org/doc/
+2020-05-12 00:44:09	--	URL for #weechat: https://weechat.org/
+2020-05-12 00:44:18	--	Channel created on Sun, 26 Nov 2006 01:42:51
+2020-05-12 00:44:23	-->	gekkou (main@gateway/vpn/protonvpn/tfwegh) has joined #weechat
+2020-05-12 00:48:08	-->	lukaso666 (~lukaso666@109.95.144.155) has joined #weechat
+2020-05-12 00:53:27	<--	denisse (~spaceCat@gateway/tor-sasl/alephzer0) has quit (Remote host closed the connection)
+2020-05-12 00:53:47	-->	denisse (~spaceCat@gateway/tor-sasl/alephzer0) has joined #weechat
+2020-05-12 00:56:20	-->	well_laid_lawn (~Jean-luc@115-64-218-237.tpgi.com.au) has joined #weechat
+2020-05-12 00:56:58	<--	ackroydai (~ackroydai@unaffiliated/ackroydai) has quit (Read error: Connection reset by peer)
+2020-05-12 00:57:36	-->	j0hnny (kadnsjkfnw@gateway/shell/xshellz/x-lhxptoexpodngjnf) has joined #weechat
+2020-05-12 00:59:03	-->	ackroydai (~ackroydai@82.132.187.63) has joined #weechat
+2020-05-12 00:59:03	<--	ackroydai (~ackroydai@82.132.187.63) has quit (Changing host)
+2020-05-12 00:59:03	-->	ackroydai (~ackroydai@unaffiliated/ackroydai) has joined #weechat
+2020-05-12 01:03:26	<--	psachin (~psachin@103.51.233.255) has quit (Ping timeout: 272 seconds)
+2020-05-12 01:04:23	<--	Hail_Spacecake (~weechat@lobsters/users/hailspacecake/x-84238744) has quit (Ping timeout: 240 seconds)
+2020-05-12 01:06:10	<--	gekkou (main@gateway/vpn/protonvpn/tfwegh) has quit (Quit: WeeChat 2.6)
+2020-05-12 01:06:51	-->	Hail_Spacecake (~weechat@lobsters/users/hailspacecake/x-84238744) has joined #weechat
+2020-05-12 01:10:34	-->	unixfreak (~null@unaffiliated/unixfreak) has joined #weechat
+2020-05-12 01:11:43	-->	cnsvc (~cnsvc@gateway/tor-sasl/cnsvc) has joined #weechat
+2020-05-12 01:12:38	<--	gigetoo (~gigetoo@c83-250-41-185.bredband.comhem.se) has quit (Ping timeout: 260 seconds)
+2020-05-12 01:13:15	-->	gigetoo (~gigetoo@c83-250-41-185.bredband.comhem.se) has joined #weechat
+2020-05-12 01:13:46	<--	m4v (~znc@ubuntu/member/m4v) has quit (Ping timeout: 246 seconds)
+2020-05-12 01:14:02	<--	cmshnrblu (~cmshnrblu@99-88-166-99.lightspeed.milwwi.sbcglobal.net) has quit (Quit: cmshnrblu)
+2020-05-12 01:15:00	<--	Betal (~Betal@unaffiliated/betal) has quit (Quit: WeeChat 2.8)
+2020-05-12 01:15:24	-->	m4v (~znc@ubuntu/member/m4v) has joined #weechat
+2020-05-12 01:15:59	<--	chunkhang (~chunkhang@175.140.78.142) has quit (Quit: Goodbye world)
+2020-05-12 01:16:03	<--	cnsvc (~cnsvc@gateway/tor-sasl/cnsvc) has quit (Ping timeout: 240 seconds)
+2020-05-12 01:16:50	<--	met (~met@unaffiliated/met) has quit (Ping timeout: 258 seconds)
+2020-05-12 01:17:18	-->	met (~met@unaffiliated/met) has joined #weechat
+2020-05-12 01:26:34	-->	n3wborn (n3wborn@gateway/vpn/privateinternetaccess/n3wborn) has joined #weechat
+2020-05-12 01:31:54	-->	edlou (uid413273@gateway/web/irccloud.com/x-jlgivksvucfpdzzn) has joined #weechat
+2020-05-12 01:43:47	-->	sauvin (sauvin@about/linux/staff/sauvin) has joined #weechat
+2020-05-12 01:47:12	-->	cnsvc (~cnsvc@gateway/tor-sasl/cnsvc) has joined #weechat
+2020-05-12 01:51:23	<--	cnsvc (~cnsvc@gateway/tor-sasl/cnsvc) has quit (Ping timeout: 240 seconds)
+2020-05-12 01:52:08	-->	Jason-KR (uid116191@gateway/web/irccloud.com/x-zxqehsqpvxmwmcfv) has joined #weechat
+2020-05-12 01:55:57	-->	trishul (~abhijital@pool-100-34-167-90.phlapa.fios.verizon.net) has joined #weechat
+2020-05-12 01:55:57	<--	\n3p\ (~n3p@gateway/tor-sasl/n3p) has quit (Quit: Leaving)
+2020-05-12 01:55:57	-->	siwyd (~weechat@ptr-1v0a72z742md9b8oph1.18120a2.ip6.access.telenet.be) has joined #weechat
+2020-05-12 01:55:57	-->	puremourning (~ben@cpc82603-woki8-2-0-cust974.6-2.cable.virginm.net) has joined #weechat
+2020-05-12 01:55:57	<--	lavaflow (~martha@45.87.213.155) has quit (Ping timeout: 258 seconds)
+2020-05-12 01:55:57	<--	zephros (~zephros@2605:a000:1113:6096:9597:cbf3:303f:fc23) has quit (Ping timeout: 260 seconds)
+2020-05-12 01:55:57	--	irc: disconnected from server
+2020-05-12 01:56:19	-->	zephros (zephros@gateway/vpn/privateinternetaccess/zephros) has joined #weechat
+2020-05-12 01:56:19	--	Topic for #weechat is "https://weechat.org/ | Latest stable version: 2.8 | English support channel, *ONLY* about WeeChat software | Please read docs before asking! | Bug reports are welcome ONLY for latest stable or devel | Off-topic chan: #weechat-offtopic | Fingerprint: A9AB 5AB7 78FA 5C35 22FD 0378 F82F 4B16 DEC4 08F8"
+2020-05-12 01:56:19	--	Topic set by FlashCode (~FlashCode@weechat.org) on Sun, 29 Mar 2020 04:09:00
+2020-05-12 01:56:20	--	Channel #weechat: 863 nicks (4 ops, 1 voice, 858 normals)
+2020-05-12 01:56:20	--	PvNotice(ChanServ): Welcome to WeeChat english support channel. IMPORTANT: you *MUST* have read docs and FAQ before asking something on this channel! Read them at: https://weechat.org/doc/
+2020-05-12 01:56:20	--	URL for #weechat: https://weechat.org/
+2020-05-12 01:56:35	--	Channel created on Sun, 26 Nov 2006 01:42:51
+2020-05-12 01:56:49	<--	trishul (~abhijital@pool-100-34-167-90.phlapa.fios.verizon.net) has quit (Ping timeout: 246 seconds)
+2020-05-12 02:01:14	-->	sangoma (~zeus@154.227.18.220) has joined #weechat
+2020-05-12 02:01:27	-->	aasutosh (~aa@27.34.68.92) has joined #weechat
+2020-05-12 02:01:56	<--	sharktamer (~sharktame@cpc157207-watf11-2-0-cust5.15-2.cable.virginm.net) has quit (Read error: Connection reset by peer)
+2020-05-12 02:02:16	-->	sharktamer (~sharktame@cpc157207-watf11-2-0-cust5.15-2.cable.virginm.net) has joined #weechat
+2020-05-12 02:02:46	-->	lavaflow (~martha@45.87.213.155) has joined #weechat
+2020-05-12 02:03:16	-->	feriman (~feriman@176.104.191.25) has joined #weechat
+2020-05-12 02:03:59	<--	aasutossh (~aa@27.34.12.150) has quit (Ping timeout: 258 seconds)
+2020-05-12 02:07:38	-->	chunkhang (~chunkhang@175.140.78.142) has joined #weechat
+2020-05-12 02:12:30	-->	cnsvc (~cnsvc@gateway/tor-sasl/cnsvc) has joined #weechat
+2020-05-12 02:16:17	-->	gouf (~gouf@141.226.79.186) has joined #weechat
+2020-05-12 02:16:43	<--	cnsvc (~cnsvc@gateway/tor-sasl/cnsvc) has quit (Ping timeout: 240 seconds)
+2020-05-12 02:18:20	<--	feriman (~feriman@176.104.191.25) has quit (Quit: WeeChat 2.7.1)
+2020-05-12 02:21:00	<--	gouf (~gouf@141.226.79.186) has quit (Client Quit)
+2020-05-12 02:21:52	-->	markopasha (~cc@88.230.227.134) has joined #weechat
+2020-05-12 02:25:58	-->	gouf (~gouf@141.226.79.186) has joined #weechat
+2020-05-12 02:26:03	<--	artlogic (~artlogic@znc.kruth.org) has quit (Quit: ZNC 1.7.5 - https://znc.in)
+2020-05-12 02:27:30	-->	artlogic (~artlogic@znc.kruth.org) has joined #weechat
+2020-05-12 02:27:30	-->	schne1der (~schneider@unaffiliated/schneider) has joined #weechat
+2020-05-12 02:28:56	<--	puremourning (~ben@cpc82603-woki8-2-0-cust974.6-2.cable.virginm.net) has quit (Ping timeout: 256 seconds)
+2020-05-12 02:33:17	-->	pokk (uid344164@gateway/web/irccloud.com/x-yyczfuohrhfdhqpf) has joined #weechat
+2020-05-12 02:35:28	<--	unixfreak (~null@unaffiliated/unixfreak) has quit (Quit: WeeChat 2.8)
+2020-05-12 02:43:09	<--	gouf (~gouf@141.226.79.186) has quit (Quit: WeeChat 2.8)
+2020-05-12 02:44:55	-->	gouf (~gouf@141.226.79.186) has joined #weechat
+2020-05-12 02:47:36	<--	xelxebar (~xelxebar@gateway/tor-sasl/xelxebar) has quit (Quit: ZNC 1.7.2+deb3 - https://znc.in)
+2020-05-12 02:48:47	-->	xelxebar (~xelxebar@gateway/tor-sasl/xelxebar) has joined #weechat
+2020-05-12 02:51:36	<--	gouf (~gouf@141.226.79.186) has quit (Quit: WeeChat 2.8)
+2020-05-12 02:54:52	-->	_thelion_ (~matthias@91-115-70-59.adsl.highway.telekom.at) has joined #weechat
+2020-05-12 03:02:28	-->	gouf (~gouf@141.226.79.186) has joined #weechat
+2020-05-12 03:03:19	<--	gigetoo (~gigetoo@c83-250-41-185.bredband.comhem.se) has quit (Ping timeout: 246 seconds)
+2020-05-12 03:03:25	<--	MEODALT (~MEODALT@198.252.153.28) has quit (Read error: Connection reset by peer)
+2020-05-12 03:03:48	-->	feriman (~feriman@176.104.191.25) has joined #weechat
+2020-05-12 03:03:49	-->	gigetoo (~gigetoo@c83-250-41-185.bredband.comhem.se) has joined #weechat
+2020-05-12 03:08:50	<--	gigetoo (~gigetoo@c83-250-41-185.bredband.comhem.se) has quit (Ping timeout: 260 seconds)
+2020-05-12 03:09:24	<--	gouf (~gouf@141.226.79.186) has quit (Quit: WeeChat 2.8)
+2020-05-12 03:09:31	-->	gigetoo (~gigetoo@c83-250-41-185.bredband.comhem.se) has joined #weechat
+2020-05-12 03:10:48	<--	h4rd3n3D_ (~weechat@gateway/tor-sasl/h4rd3n3d) has quit (Remote host closed the connection)
+2020-05-12 03:10:49	<--	h4rd3n3D (~weechat@gateway/tor-sasl/h4rd3n3d) has quit (Remote host closed the connection)
+2020-05-12 03:11:22	<--	sangoma (~zeus@154.227.18.220) has quit (Ping timeout: 272 seconds)
+2020-05-12 03:11:41	-->	h4rd3n3D_ (~weechat@gateway/tor-sasl/h4rd3n3d) has joined #weechat
+2020-05-12 03:11:48	-->	h4rd3n3D (~weechat@gateway/tor-sasl/h4rd3n3d) has joined #weechat

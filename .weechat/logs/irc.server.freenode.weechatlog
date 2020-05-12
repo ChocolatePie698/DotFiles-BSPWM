@@ -1,0 +1,472 @@
+2020-05-11 23:36:55	--	irc: connecting to server chat.freenode.net/6697 (SSL)...
+2020-05-11 23:36:55	--	gnutls: connected using 2048-bit Diffie-Hellman shared secret exchange
+2020-05-11 23:36:55	--	gnutls: receiving 2 certificates
+2020-05-11 23:36:55	--	 - certificate[1] info:
+2020-05-11 23:36:55	--	   - subject `CN=egan.freenode.net', issuer `CN=Let's Encrypt Authority X3,O=Let's Encrypt,C=US', serial 0x041760a0e1aefc48dfbd81a1a7b3315b76d3, RSA key 4096 bits, signed using RSA-SHA256, activated `2020-04-08 20:51:20 UTC', expires `2020-07-07 20:51:20 UTC', pin-sha256="9wjgKysRiTN/+oc2J643VdFbfKRwjMTVJAGqsNyh42g="
+2020-05-11 23:36:55	--	 - certificate[2] info:
+2020-05-11 23:36:55	--	   - subject `CN=Let's Encrypt Authority X3,O=Let's Encrypt,C=US', issuer `CN=DST Root CA X3,O=Digital Signature Trust Co.', serial 0x0a0141420000015385736a0b85eca708, RSA key 2048 bits, signed using RSA-SHA256, activated `2016-03-17 16:40:46 UTC', expires `2021-03-17 16:40:46 UTC', pin-sha256="YLh1dUR9y6Kja30RrAn7JKnbQG/uEtLMkBgFF2Fuihg="
+2020-05-11 23:36:55	--	gnutls: peer's certificate is trusted
+2020-05-11 23:36:55	--	irc: connected to chat.freenode.net/6697 (2001:5a0:40:50:66:110:9:37)
+2020-05-11 23:36:55	--	egan.freenode.net: *** Looking up your hostname...
+2020-05-11 23:36:55	--	egan.freenode.net: *** Checking Ident
+2020-05-11 23:36:55	--	egan.freenode.net: *** Couldn't look up your hostname
+2020-05-11 23:37:04	--	egan.freenode.net: *** No Ident response
+2020-05-11 23:37:04	--	irc: client capability, server supports: extended-join tls multi-prefix identify-msg account-notify chghost sasl cap-notify away-notify
+2020-05-11 23:37:04	--	irc: client capability, requesting: sasl
+2020-05-11 23:37:04	--	irc: client capability, enabled: sasl
+2020-05-11 23:37:04	--	SASL authentication failed
+2020-05-11 23:37:05	--	SASL authentication aborted
+2020-05-11 23:37:05	--	Welcome to the freenode Internet Relay Chat Network zephros
+2020-05-11 23:37:05	--	Your host is egan.freenode.net[2001:5a0:40:50:66:110:9:37/6697], running version ircd-seven-1.1.9
+2020-05-11 23:37:05	--	This server was created Fri May 1 2020 at 22:14:31 UTC
+2020-05-11 23:37:05	--	egan.freenode.net ircd-seven-1.1.9 DOQRSZaghilopsuwz CFILMPQSbcefgijklmnopqrstuvz bkloveqjfI
+2020-05-11 23:37:05	--	CHANTYPES=# EXCEPTS INVEX CHANMODES=eIbq,k,flj,CFLMPQScgimnprstuz CHANLIMIT=#:120 PREFIX=(ov)@+ MAXLIST=bqeI:100 MODES=4 NETWORK=freenode STATUSMSG=@+ CALLERID=g CASEMAPPING=rfc1459 :are supported by this server
+2020-05-11 23:37:05	--	CHARSET=ascii NICKLEN=16 CHANNELLEN=50 TOPICLEN=390 DEAF=D FNC TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: EXTBAN=$,ajrxz CLIENTVER=3.0 CPRIVMSG CNOTICE ETRACE :are supported by this server
+2020-05-11 23:37:05	--	KNOCK SAFELIST ELIST=CTU MONITOR=100 WHOX :are supported by this server
+2020-05-11 23:37:05	--	There are 97 users and 79537 invisible on 30 servers
+2020-05-11 23:37:05	--	37 :IRC Operators online
+2020-05-11 23:37:05	--	2 :unknown connection(s)
+2020-05-11 23:37:05	--	44103 :channels formed
+2020-05-11 23:37:05	--	I have 3800 clients and 1 servers
+2020-05-11 23:37:05	--	3800 4230 :Current local users 3800, max 4230
+2020-05-11 23:37:05	--	79634 89000 :Current global users 79634, max 89000
+2020-05-11 23:37:05	--	Highest connection count: 4231 (4230 clients) (130792 connections received)
+2020-05-11 23:37:05	--	- egan.freenode.net Message of the Day - 
+2020-05-11 23:37:05	--	- Welcome to freenode - supporting the free and open source
+2020-05-11 23:37:05	--	- software communities since 1998.
+2020-05-11 23:37:05	--	-  
+2020-05-11 23:37:05	--	- By connecting to freenode you indicate that you have read and
+2020-05-11 23:37:05	--	- accept our policies and guidelines as set out on https://freenode.net
+2020-05-11 23:37:05	--	-  
+2020-05-11 23:37:05	--	- In the event that you observe behaviour that contravenes our policies,
+2020-05-11 23:37:05	--	- please notify a volunteer staff member via private message, or send us an
+2020-05-11 23:37:05	--	- e-mail to complaints@freenode.net -- we will do our best to address the
+2020-05-11 23:37:05	--	- situation within a reasonable period of time, and we may request further
+2020-05-11 23:37:05	--	- information or, as appropriate, involve other parties such as channel operators 
+2020-05-11 23:37:05	--	- Group Contacts representing an on-topic group.
+2020-05-11 23:37:05	--	-  
+2020-05-11 23:37:05	--	- freenode runs an open proxy scanner.
+2020-05-11 23:37:05	--	-  
+2020-05-11 23:37:05	--	- If you are looking for assistance, you may be able to find a list of 
+2020-05-11 23:37:05	--	- volunteer staff on '/stats p' (shows only on-call staff) or by joining 
+2020-05-11 23:37:05	--	- #freenode and using the '/who freenode/staff/*' command. You may message
+2020-05-11 23:37:05	--	- any of us at any time. Please note that freenode predominantly provides 
+2020-05-11 23:37:05	--	- assistance via private message, and while we have a network channel the 
+2020-05-11 23:37:05	--	- primary venue for support requests is via private message to a member 
+2020-05-11 23:37:05	--	- of the volunteer staff team.
+2020-05-11 23:37:05	--	-  
+2020-05-11 23:37:05	--	- From time to time, volunteer staff may send server-wide notices relating to
+2020-05-11 23:37:05	--	- the project, or the communities that we host. The majority of such notices
+2020-05-11 23:37:05	--	- will be sent as wallops, and you can '/mode <yournick> +w' to ensure that you
+2020-05-11 23:37:05	--	- do not miss them. Important messages relating to the freenode project, including
+2020-05-11 23:37:05	--	- notices of upcoming maintenance and other scheduled downtime will be issued as
+2020-05-11 23:37:05	--	- global notices.
+2020-05-11 23:37:05	--	-  
+2020-05-11 23:37:05	--	- Representing an on-topic project? Don't forget to register, more information
+2020-05-11 23:37:05	--	- can be found on the https://freenode.net website under "Group Registration".
+2020-05-11 23:37:05	--	-  
+2020-05-11 23:37:05	--	- Thank you also to our server sponsors for the sustained support in keeping the
+2020-05-11 23:37:05	--	- network going for close to two decades.
+2020-05-11 23:37:05	--	-  
+2020-05-11 23:37:05	--	- Thank you for using freenode!
+2020-05-11 23:37:05	--	End of /MOTD command.
+2020-05-11 23:37:05	--	User mode [+Zi] by zephros
+2020-05-11 23:37:06	--	NickServ (NickServ@services.): This nickname is registered. Please choose a different nickname, or identify via /msg NickServ identify <password>.
+2020-05-11 23:37:14	--	irc: disconnected from server
+2020-05-11 23:38:10	--	irc: connecting to server chat.freenode.net/6697 (SSL)...
+2020-05-11 23:38:10	--	gnutls: connected using 2048-bit Diffie-Hellman shared secret exchange
+2020-05-11 23:38:10	--	gnutls: receiving 2 certificates
+2020-05-11 23:38:10	--	 - certificate[1] info:
+2020-05-11 23:38:10	--	   - subject `CN=karatkievich.freenode.net', issuer `CN=Let's Encrypt Authority X3,O=Let's Encrypt,C=US', serial 0x0496991a5fe5928b7fee2c0268c5e9709b91, RSA key 4096 bits, signed using RSA-SHA256, activated `2020-04-27 05:03:01 UTC', expires `2020-07-26 05:03:01 UTC', pin-sha256="obvkroeuB13U1CRq+9S+7Ijw9pIJda3fPgXF7iDmHQg="
+2020-05-11 23:38:10	--	 - certificate[2] info:
+2020-05-11 23:38:10	--	   - subject `CN=Let's Encrypt Authority X3,O=Let's Encrypt,C=US', issuer `CN=DST Root CA X3,O=Digital Signature Trust Co.', serial 0x0a0141420000015385736a0b85eca708, RSA key 2048 bits, signed using RSA-SHA256, activated `2016-03-17 16:40:46 UTC', expires `2021-03-17 16:40:46 UTC', pin-sha256="YLh1dUR9y6Kja30RrAn7JKnbQG/uEtLMkBgFF2Fuihg="
+2020-05-11 23:38:10	--	gnutls: peer's certificate is trusted
+2020-05-11 23:38:10	--	irc: connected to chat.freenode.net/6697 (2001:5a0:3604:1:64:86:243:181)
+2020-05-11 23:38:11	--	karatkievich.freenode.net: *** Looking up your hostname...
+2020-05-11 23:38:11	--	karatkievich.freenode.net: *** Checking Ident
+2020-05-11 23:38:11	--	karatkievich.freenode.net: *** Couldn't look up your hostname
+2020-05-11 23:38:20	--	karatkievich.freenode.net: *** No Ident response
+2020-05-11 23:38:20	--	irc: client capability, server supports: extended-join tls multi-prefix identify-msg account-notify chghost sasl cap-notify away-notify
+2020-05-11 23:38:20	--	irc: client capability, requesting: sasl
+2020-05-11 23:38:20	--	irc: client capability, enabled: sasl
+2020-05-11 23:38:20	--	SASL authentication failed
+2020-05-11 23:38:21	--	SASL authentication aborted
+2020-05-11 23:38:21	--	Welcome to the freenode Internet Relay Chat Network zephros
+2020-05-11 23:38:21	--	Your host is karatkievich.freenode.net[2001:5a0:3604:1:64:86:243:181/6697], running version ircd-seven-1.1.9
+2020-05-11 23:38:21	--	This server was created Sat Apr 25 2020 at 14:57:02 UTC
+2020-05-11 23:38:21	--	karatkievich.freenode.net ircd-seven-1.1.9 DOQRSZaghilopsuwz CFILMPQSbcefgijklmnopqrstuvz bkloveqjfI
+2020-05-11 23:38:21	--	CHANTYPES=# EXCEPTS INVEX CHANMODES=eIbq,k,flj,CFLMPQScgimnprstuz CHANLIMIT=#:120 PREFIX=(ov)@+ MAXLIST=bqeI:100 MODES=4 NETWORK=freenode STATUSMSG=@+ CALLERID=g CASEMAPPING=rfc1459 :are supported by this server
+2020-05-11 23:38:21	--	CHARSET=ascii NICKLEN=16 CHANNELLEN=50 TOPICLEN=390 DEAF=D FNC TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: EXTBAN=$,ajrxz CLIENTVER=3.0 CPRIVMSG CNOTICE ETRACE :are supported by this server
+2020-05-11 23:38:21	--	KNOCK SAFELIST ELIST=CTU MONITOR=100 WHOX :are supported by this server
+2020-05-11 23:38:21	--	There are 97 users and 79529 invisible on 30 servers
+2020-05-11 23:38:21	--	37 :IRC Operators online
+2020-05-11 23:38:21	--	1 :unknown connection(s)
+2020-05-11 23:38:21	--	44104 :channels formed
+2020-05-11 23:38:21	--	I have 4139 clients and 1 servers
+2020-05-11 23:38:21	--	4139 5782 :Current local users 4139, max 5782
+2020-05-11 23:38:21	--	79626 89000 :Current global users 79626, max 89000
+2020-05-11 23:38:21	--	Highest connection count: 5783 (5782 clients) (106624 connections received)
+2020-05-11 23:38:21	--	- karatkievich.freenode.net Message of the Day - 
+2020-05-11 23:38:21	--	- Welcome to karatkievich.freenode.net. Thanks to
+2020-05-11 23:38:21	--	- http://www.tatacommunications.com/ for sponsoring
+2020-05-11 23:38:21	--	- this server!
+2020-05-11 23:38:21	--	-  
+2020-05-11 23:38:21	--	- KARATKIEVICH, ULADZIMIR (1930-1984) was a Belarusian
+2020-05-11 23:38:21	--	- romantic writer. After his first published work was a poem
+2020-05-11 23:38:21	--	- in 1951, he followed up with novels, short stories, plays,
+2020-05-11 23:38:21	--	- essays, articles and screenplays. His probably most popular
+2020-05-11 23:38:21	--	- work is the novel 'King Stakh's Wild Hunt' (1964). Most his
+2020-05-11 23:38:21	--	- novels are about Belarus's past.  He won many national
+2020-05-11 23:38:21	--	- literary awards and influenced the Belarusian literature's
+2020-05-11 23:38:21	--	- development of historical themes.
+2020-05-11 23:38:21	--	-  
+2020-05-11 23:38:21	--	-  
+2020-05-11 23:38:21	--	- Welcome to freenode - supporting the free and open source
+2020-05-11 23:38:21	--	- software communities since 1998.
+2020-05-11 23:38:21	--	-  
+2020-05-11 23:38:21	--	- By connecting to freenode you indicate that you have read and
+2020-05-11 23:38:21	--	- accept our policies and guidelines as set out on https://freenode.net
+2020-05-11 23:38:21	--	-  
+2020-05-11 23:38:21	--	- In the event that you observe behaviour that contravenes our policies,
+2020-05-11 23:38:21	--	- please notify a volunteer staff member via private message, or send us an
+2020-05-11 23:38:21	--	- e-mail to complaints@freenode.net -- we will do our best to address the
+2020-05-11 23:38:21	--	- situation within a reasonable period of time, and we may request further
+2020-05-11 23:38:21	--	- information or, as appropriate, involve other parties such as channel operators 
+2020-05-11 23:38:21	--	- Group Contacts representing an on-topic group.
+2020-05-11 23:38:21	--	-  
+2020-05-11 23:38:21	--	- freenode runs an open proxy scanner.
+2020-05-11 23:38:21	--	-  
+2020-05-11 23:38:21	--	- If you are looking for assistance, you may be able to find a list of 
+2020-05-11 23:38:21	--	- volunteer staff on '/stats p' (shows only on-call staff) or by joining 
+2020-05-11 23:38:21	--	- #freenode and using the '/who freenode/staff/*' command. You may message
+2020-05-11 23:38:21	--	- any of us at any time. Please note that freenode predominantly provides 
+2020-05-11 23:38:21	--	- assistance via private message, and while we have a network channel the 
+2020-05-11 23:38:21	--	- primary venue for support requests is via private message to a member 
+2020-05-11 23:38:21	--	- of the volunteer staff team.
+2020-05-11 23:38:21	--	-  
+2020-05-11 23:38:21	--	- From time to time, volunteer staff may send server-wide notices relating to
+2020-05-11 23:38:21	--	- the project, or the communities that we host. The majority of such notices
+2020-05-11 23:38:21	--	- will be sent as wallops, and you can '/mode <yournick> +w' to ensure that you
+2020-05-11 23:38:21	--	- do not miss them. Important messages relating to the freenode project, including
+2020-05-11 23:38:21	--	- notices of upcoming maintenance and other scheduled downtime will be issued as
+2020-05-11 23:38:21	--	- global notices.
+2020-05-11 23:38:21	--	-  
+2020-05-11 23:38:21	--	- Representing an on-topic project? Don't forget to register, more information
+2020-05-11 23:38:21	--	- can be found on the https://freenode.net website under "Group Registration".
+2020-05-11 23:38:21	--	-  
+2020-05-11 23:38:21	--	- Thank you also to our server sponsors for the sustained support in keeping the
+2020-05-11 23:38:21	--	- network going for close to two decades.
+2020-05-11 23:38:21	--	-  
+2020-05-11 23:38:21	--	- Thank you for using freenode!
+2020-05-11 23:38:21	--	End of /MOTD command.
+2020-05-11 23:38:21	--	User mode [+Zi] by zephros
+2020-05-11 23:38:21	--	NickServ (NickServ@services.): This nickname is registered. Please choose a different nickname, or identify via /msg NickServ identify <password>.
+2020-05-11 23:38:24	--	irc: disconnected from server
+2020-05-11 23:38:34	--	irc: connecting to server chat.freenode.net/6697 (SSL)...
+2020-05-11 23:38:34	--	gnutls: connected using 2048-bit Diffie-Hellman shared secret exchange
+2020-05-11 23:38:34	--	gnutls: receiving 2 certificates
+2020-05-11 23:38:34	--	 - certificate[1] info:
+2020-05-11 23:38:34	--	   - subject `CN=egan.freenode.net', issuer `CN=Let's Encrypt Authority X3,O=Let's Encrypt,C=US', serial 0x041760a0e1aefc48dfbd81a1a7b3315b76d3, RSA key 4096 bits, signed using RSA-SHA256, activated `2020-04-08 20:51:20 UTC', expires `2020-07-07 20:51:20 UTC', pin-sha256="9wjgKysRiTN/+oc2J643VdFbfKRwjMTVJAGqsNyh42g="
+2020-05-11 23:38:34	--	 - certificate[2] info:
+2020-05-11 23:38:34	--	   - subject `CN=Let's Encrypt Authority X3,O=Let's Encrypt,C=US', issuer `CN=DST Root CA X3,O=Digital Signature Trust Co.', serial 0x0a0141420000015385736a0b85eca708, RSA key 2048 bits, signed using RSA-SHA256, activated `2016-03-17 16:40:46 UTC', expires `2021-03-17 16:40:46 UTC', pin-sha256="YLh1dUR9y6Kja30RrAn7JKnbQG/uEtLMkBgFF2Fuihg="
+2020-05-11 23:38:34	--	gnutls: peer's certificate is trusted
+2020-05-11 23:38:34	--	irc: connected to chat.freenode.net/6697 (2001:5a0:40:50:66:110:9:37)
+2020-05-11 23:38:34	--	egan.freenode.net: *** Looking up your hostname...
+2020-05-11 23:38:34	--	egan.freenode.net: *** Checking Ident
+2020-05-11 23:38:34	--	egan.freenode.net: *** Couldn't look up your hostname
+2020-05-11 23:38:40	--	egan.freenode.net: *** No Ident response
+2020-05-11 23:38:40	--	irc: client capability, server supports: extended-join tls multi-prefix identify-msg account-notify chghost sasl cap-notify away-notify
+2020-05-11 23:38:40	--	irc: client capability, requesting: sasl
+2020-05-11 23:38:40	--	irc: client capability, enabled: sasl
+2020-05-11 23:38:42	--	You are now logged in as Zephros. (zephros!zephros@2605:a000:1113:6096:9597:cbf3:303f:fc23)
+2020-05-11 23:38:42	--	SASL authentication successful
+2020-05-11 23:38:42	--	Welcome to the freenode Internet Relay Chat Network zephros
+2020-05-11 23:38:42	--	Your host is egan.freenode.net[2001:5a0:40:50:66:110:9:37/6697], running version ircd-seven-1.1.9
+2020-05-11 23:38:42	--	This server was created Fri May 1 2020 at 22:14:31 UTC
+2020-05-11 23:38:42	--	egan.freenode.net ircd-seven-1.1.9 DOQRSZaghilopsuwz CFILMPQSbcefgijklmnopqrstuvz bkloveqjfI
+2020-05-11 23:38:42	--	CHANTYPES=# EXCEPTS INVEX CHANMODES=eIbq,k,flj,CFLMPQScgimnprstuz CHANLIMIT=#:120 PREFIX=(ov)@+ MAXLIST=bqeI:100 MODES=4 NETWORK=freenode STATUSMSG=@+ CALLERID=g CASEMAPPING=rfc1459 :are supported by this server
+2020-05-11 23:38:42	--	CHARSET=ascii NICKLEN=16 CHANNELLEN=50 TOPICLEN=390 DEAF=D FNC TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: EXTBAN=$,ajrxz CLIENTVER=3.0 CPRIVMSG CNOTICE ETRACE :are supported by this server
+2020-05-11 23:38:42	--	KNOCK SAFELIST ELIST=CTU MONITOR=100 WHOX :are supported by this server
+2020-05-11 23:38:42	--	There are 97 users and 79530 invisible on 30 servers
+2020-05-11 23:38:42	--	37 :IRC Operators online
+2020-05-11 23:38:42	--	3 :unknown connection(s)
+2020-05-11 23:38:42	--	44101 :channels formed
+2020-05-11 23:38:42	--	I have 3798 clients and 1 servers
+2020-05-11 23:38:42	--	3798 4230 :Current local users 3798, max 4230
+2020-05-11 23:38:42	--	79627 89000 :Current global users 79627, max 89000
+2020-05-11 23:38:42	--	Highest connection count: 4231 (4230 clients) (130796 connections received)
+2020-05-11 23:38:42	--	- egan.freenode.net Message of the Day - 
+2020-05-11 23:38:42	--	- Welcome to freenode - supporting the free and open source
+2020-05-11 23:38:42	--	- software communities since 1998.
+2020-05-11 23:38:42	--	-  
+2020-05-11 23:38:42	--	- By connecting to freenode you indicate that you have read and
+2020-05-11 23:38:42	--	- accept our policies and guidelines as set out on https://freenode.net
+2020-05-11 23:38:42	--	-  
+2020-05-11 23:38:42	--	- In the event that you observe behaviour that contravenes our policies,
+2020-05-11 23:38:42	--	- please notify a volunteer staff member via private message, or send us an
+2020-05-11 23:38:42	--	- e-mail to complaints@freenode.net -- we will do our best to address the
+2020-05-11 23:38:42	--	- situation within a reasonable period of time, and we may request further
+2020-05-11 23:38:42	--	- information or, as appropriate, involve other parties such as channel operators 
+2020-05-11 23:38:42	--	- Group Contacts representing an on-topic group.
+2020-05-11 23:38:42	--	-  
+2020-05-11 23:38:42	--	- freenode runs an open proxy scanner.
+2020-05-11 23:38:42	--	-  
+2020-05-11 23:38:42	--	- If you are looking for assistance, you may be able to find a list of 
+2020-05-11 23:38:42	--	- volunteer staff on '/stats p' (shows only on-call staff) or by joining 
+2020-05-11 23:38:42	--	- #freenode and using the '/who freenode/staff/*' command. You may message
+2020-05-11 23:38:42	--	- any of us at any time. Please note that freenode predominantly provides 
+2020-05-11 23:38:42	--	- assistance via private message, and while we have a network channel the 
+2020-05-11 23:38:42	--	- primary venue for support requests is via private message to a member 
+2020-05-11 23:38:42	--	- of the volunteer staff team.
+2020-05-11 23:38:42	--	-  
+2020-05-11 23:38:42	--	- From time to time, volunteer staff may send server-wide notices relating to
+2020-05-11 23:38:42	--	- the project, or the communities that we host. The majority of such notices
+2020-05-11 23:38:42	--	- will be sent as wallops, and you can '/mode <yournick> +w' to ensure that you
+2020-05-11 23:38:42	--	- do not miss them. Important messages relating to the freenode project, including
+2020-05-11 23:38:42	--	- notices of upcoming maintenance and other scheduled downtime will be issued as
+2020-05-11 23:38:42	--	- global notices.
+2020-05-11 23:38:42	--	-  
+2020-05-11 23:38:42	--	- Representing an on-topic project? Don't forget to register, more information
+2020-05-11 23:38:42	--	- can be found on the https://freenode.net website under "Group Registration".
+2020-05-11 23:38:42	--	-  
+2020-05-11 23:38:42	--	- Thank you also to our server sponsors for the sustained support in keeping the
+2020-05-11 23:38:42	--	- network going for close to two decades.
+2020-05-11 23:38:42	--	-  
+2020-05-11 23:38:42	--	- Thank you for using freenode!
+2020-05-11 23:38:42	--	End of /MOTD command.
+2020-05-11 23:38:42	--	User mode [+Zi] by zephros
+2020-05-11 23:51:58	--	#astronomy: ##astronomy :Forwarding to another channel
+2020-05-12 00:37:23	--	irc: connecting to server chat.freenode.net/6697 (SSL)...
+2020-05-12 00:37:23	--	gnutls: connected using 2048-bit Diffie-Hellman shared secret exchange
+2020-05-12 00:37:23	--	gnutls: receiving 2 certificates
+2020-05-12 00:37:23	--	 - certificate[1] info:
+2020-05-12 00:37:23	--	   - subject `CN=adams.freenode.net', issuer `CN=Let's Encrypt Authority X3,O=Let's Encrypt,C=US', serial 0x03274816ef28e354d977eacf13346b053d6d, RSA key 4096 bits, signed using RSA-SHA256, activated `2020-03-23 05:03:46 UTC', expires `2020-06-21 05:03:46 UTC', pin-sha256="WXu8USfiHQt4RHvXQ5FsEanHAnt5GTERZ3bqIOKeh9Q="
+2020-05-12 00:37:23	--	 - certificate[2] info:
+2020-05-12 00:37:23	--	   - subject `CN=Let's Encrypt Authority X3,O=Let's Encrypt,C=US', issuer `CN=DST Root CA X3,O=Digital Signature Trust Co.', serial 0x0a0141420000015385736a0b85eca708, RSA key 2048 bits, signed using RSA-SHA256, activated `2016-03-17 16:40:46 UTC', expires `2021-03-17 16:40:46 UTC', pin-sha256="YLh1dUR9y6Kja30RrAn7JKnbQG/uEtLMkBgFF2Fuihg="
+2020-05-12 00:37:23	--	gnutls: peer's certificate is trusted
+2020-05-12 00:37:23	--	irc: connected to chat.freenode.net/6697 (2a01:270:0:666f::1)
+2020-05-12 00:37:23	--	adams.freenode.net: *** Looking up your hostname...
+2020-05-12 00:37:23	--	adams.freenode.net: *** Checking Ident
+2020-05-12 00:37:23	--	adams.freenode.net: *** Couldn't look up your hostname
+2020-05-12 00:37:33	--	adams.freenode.net: *** No Ident response
+2020-05-12 00:37:33	--	irc: client capability, server supports: extended-join tls multi-prefix identify-msg account-notify chghost sasl cap-notify away-notify
+2020-05-12 00:37:33	--	irc: client capability, requesting: sasl
+2020-05-12 00:37:33	--	irc: client capability, enabled: sasl
+2020-05-12 00:37:33	--	You are now logged in as Zephros. (zephros!zephros@2605:a000:1113:6096:9597:cbf3:303f:fc23)
+2020-05-12 00:37:33	--	SASL authentication successful
+2020-05-12 00:37:34	--	Welcome to the freenode Internet Relay Chat Network zephros
+2020-05-12 00:37:34	--	Your host is adams.freenode.net[2a01:270:0:666f::1/6697], running version ircd-seven-1.1.9
+2020-05-12 00:37:34	--	This server was created Tue Jan 14 2020 at 13:01:45 UTC
+2020-05-12 00:37:34	--	adams.freenode.net ircd-seven-1.1.9 DOQRSZaghilopsuwz CFILMPQSbcefgijklmnopqrstuvz bkloveqjfI
+2020-05-12 00:37:34	--	CHANTYPES=# EXCEPTS INVEX CHANMODES=eIbq,k,flj,CFLMPQScgimnprstuz CHANLIMIT=#:120 PREFIX=(ov)@+ MAXLIST=bqeI:100 MODES=4 NETWORK=freenode STATUSMSG=@+ CALLERID=g CASEMAPPING=rfc1459 :are supported by this server
+2020-05-12 00:37:34	--	CHARSET=ascii NICKLEN=16 CHANNELLEN=50 TOPICLEN=390 DEAF=D FNC TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: EXTBAN=$,ajrxz CLIENTVER=3.0 CPRIVMSG CNOTICE ETRACE :are supported by this server
+2020-05-12 00:37:34	--	KNOCK SAFELIST ELIST=CTU WHOX MONITOR=100 :are supported by this server
+2020-05-12 00:37:34	--	There are 98 users and 79508 invisible on 30 servers
+2020-05-12 00:37:34	--	37 :IRC Operators online
+2020-05-12 00:37:34	--	2 :unknown connection(s)
+2020-05-12 00:37:34	--	44118 :channels formed
+2020-05-12 00:37:34	--	I have 4142 clients and 1 servers
+2020-05-12 00:37:34	--	4142 7034 :Current local users 4142, max 7034
+2020-05-12 00:37:34	--	79606 89000 :Current global users 79606, max 89000
+2020-05-12 00:37:34	--	Highest connection count: 7035 (7034 clients) (719473 connections received)
+2020-05-12 00:37:34	--	- adams.freenode.net Message of the Day - 
+2020-05-12 00:37:34	--	- Welcome to adams.freenode.net. Thanks to ATW Internet Kft 
+2020-05-12 00:37:34	--	- (http://www.atw.hu) for sponsoring this server!
+2020-05-12 00:37:34	--	-  
+2020-05-12 00:37:34	--	- ADAMS, DOUGLAS (1952-2001).  Author of The Hitch Hikers Guide
+2020-05-12 00:37:34	--	- to the Galaxy and many other witty and humourous books,
+2020-05-12 00:37:34	--	- portrayed in his uniquely British irony. He is sorely missed
+2020-05-12 00:37:34	--	- by many millions of devoted fans. "So long and thanks for all
+2020-05-12 00:37:34	--	- the books!"
+2020-05-12 00:37:34	--	-  
+2020-05-12 00:37:34	--	- Welcome to freenode - supporting the free and open source
+2020-05-12 00:37:34	--	- software communities since 1998.
+2020-05-12 00:37:34	--	-  
+2020-05-12 00:37:34	--	- By connecting to freenode you indicate that you have read and
+2020-05-12 00:37:34	--	- accept our policies and guidelines as set out on https://freenode.net
+2020-05-12 00:37:34	--	-  
+2020-05-12 00:37:34	--	- In the event that you observe behaviour that contravenes our policies,
+2020-05-12 00:37:34	--	- please notify a volunteer staff member via private message, or send us an
+2020-05-12 00:37:34	--	- e-mail to complaints@freenode.net -- we will do our best to address the
+2020-05-12 00:37:34	--	- situation within a reasonable period of time, and we may request further
+2020-05-12 00:37:34	--	- information or, as appropriate, involve other parties such as channel operators 
+2020-05-12 00:37:34	--	- Group Contacts representing an on-topic group.
+2020-05-12 00:37:34	--	-  
+2020-05-12 00:37:34	--	- freenode runs an open proxy scanner.
+2020-05-12 00:37:34	--	-  
+2020-05-12 00:37:34	--	- If you are looking for assistance, you may be able to find a list of 
+2020-05-12 00:37:34	--	- volunteer staff on '/stats p' (shows only on-call staff) or by joining 
+2020-05-12 00:37:34	--	- #freenode and using the '/who freenode/staff/*' command. You may message
+2020-05-12 00:37:34	--	- any of us at any time. Please note that freenode predominantly provides 
+2020-05-12 00:37:34	--	- assistance via private message, and while we have a network channel the 
+2020-05-12 00:37:34	--	- primary venue for support requests is via private message to a member 
+2020-05-12 00:37:34	--	- of the volunteer staff team.
+2020-05-12 00:37:34	--	-  
+2020-05-12 00:37:34	--	- From time to time, volunteer staff may send server-wide notices relating to
+2020-05-12 00:37:34	--	- the project, or the communities that we host. The majority of such notices
+2020-05-12 00:37:34	--	- will be sent as wallops, and you can '/mode <yournick> +w' to ensure that you
+2020-05-12 00:37:34	--	- do not miss them. Important messages relating to the freenode project, including
+2020-05-12 00:37:34	--	- notices of upcoming maintenance and other scheduled downtime will be issued as
+2020-05-12 00:37:34	--	- global notices.
+2020-05-12 00:37:34	--	-  
+2020-05-12 00:37:34	--	- Representing an on-topic project? Don't forget to register, more information
+2020-05-12 00:37:34	--	- can be found on the https://freenode.net website under "Group Registration".
+2020-05-12 00:37:34	--	-  
+2020-05-12 00:37:34	--	- Thank you also to our server sponsors for the sustained support in keeping the
+2020-05-12 00:37:34	--	- network going for close to two decades.
+2020-05-12 00:37:34	--	-  
+2020-05-12 00:37:34	--	- Thank you for using freenode!
+2020-05-12 00:37:34	--	End of /MOTD command.
+2020-05-12 00:37:34	--	User mode [+Zi] by zephros
+2020-05-12 00:39:51	=!=	irc: this buffer is not a channel!
+2020-05-12 00:43:51	--	irc: connecting to server chat.freenode.net/6697 (SSL)...
+2020-05-12 00:43:52	--	gnutls: connected using 2048-bit Diffie-Hellman shared secret exchange
+2020-05-12 00:43:52	--	gnutls: receiving 2 certificates
+2020-05-12 00:43:52	--	 - certificate[1] info:
+2020-05-12 00:43:52	--	   - subject `CN=egan.freenode.net', issuer `CN=Let's Encrypt Authority X3,O=Let's Encrypt,C=US', serial 0x041760a0e1aefc48dfbd81a1a7b3315b76d3, RSA key 4096 bits, signed using RSA-SHA256, activated `2020-04-08 20:51:20 UTC', expires `2020-07-07 20:51:20 UTC', pin-sha256="9wjgKysRiTN/+oc2J643VdFbfKRwjMTVJAGqsNyh42g="
+2020-05-12 00:43:52	--	 - certificate[2] info:
+2020-05-12 00:43:52	--	   - subject `CN=Let's Encrypt Authority X3,O=Let's Encrypt,C=US', issuer `CN=DST Root CA X3,O=Digital Signature Trust Co.', serial 0x0a0141420000015385736a0b85eca708, RSA key 2048 bits, signed using RSA-SHA256, activated `2016-03-17 16:40:46 UTC', expires `2021-03-17 16:40:46 UTC', pin-sha256="YLh1dUR9y6Kja30RrAn7JKnbQG/uEtLMkBgFF2Fuihg="
+2020-05-12 00:43:52	--	gnutls: peer's certificate is trusted
+2020-05-12 00:43:52	--	irc: connected to chat.freenode.net/6697 (2001:5a0:40:50:66:110:9:37)
+2020-05-12 00:43:52	--	egan.freenode.net: *** Looking up your hostname...
+2020-05-12 00:43:52	--	egan.freenode.net: *** Checking Ident
+2020-05-12 00:43:52	--	egan.freenode.net: *** Couldn't look up your hostname
+2020-05-12 00:44:00	--	egan.freenode.net: *** No Ident response
+2020-05-12 00:44:00	--	irc: client capability, server supports: extended-join tls multi-prefix identify-msg account-notify chghost sasl cap-notify away-notify
+2020-05-12 00:44:00	--	irc: client capability, requesting: sasl
+2020-05-12 00:44:01	--	irc: client capability, enabled: sasl
+2020-05-12 00:44:02	--	You are now logged in as Zephros. (zephros!zephros@2605:a000:1113:6096:9597:cbf3:303f:fc23)
+2020-05-12 00:44:02	--	SASL authentication successful
+2020-05-12 00:44:02	--	Welcome to the freenode Internet Relay Chat Network zephros
+2020-05-12 00:44:02	--	Your host is egan.freenode.net[2001:5a0:40:50:66:110:9:37/6697], running version ircd-seven-1.1.9
+2020-05-12 00:44:02	--	This server was created Fri May 1 2020 at 22:14:31 UTC
+2020-05-12 00:44:02	--	egan.freenode.net ircd-seven-1.1.9 DOQRSZaghilopsuwz CFILMPQSbcefgijklmnopqrstuvz bkloveqjfI
+2020-05-12 00:44:02	--	CHANTYPES=# EXCEPTS INVEX CHANMODES=eIbq,k,flj,CFLMPQScgimnprstuz CHANLIMIT=#:120 PREFIX=(ov)@+ MAXLIST=bqeI:100 MODES=4 NETWORK=freenode STATUSMSG=@+ CALLERID=g CASEMAPPING=rfc1459 :are supported by this server
+2020-05-12 00:44:02	--	CHARSET=ascii NICKLEN=16 CHANNELLEN=50 TOPICLEN=390 DEAF=D FNC TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: EXTBAN=$,ajrxz CLIENTVER=3.0 CPRIVMSG CNOTICE ETRACE :are supported by this server
+2020-05-12 00:44:02	--	KNOCK SAFELIST ELIST=CTU MONITOR=100 WHOX :are supported by this server
+2020-05-12 00:44:02	--	There are 98 users and 79514 invisible on 30 servers
+2020-05-12 00:44:02	--	37 :IRC Operators online
+2020-05-12 00:44:02	--	3 :unknown connection(s)
+2020-05-12 00:44:02	--	44116 :channels formed
+2020-05-12 00:44:02	--	I have 3814 clients and 1 servers
+2020-05-12 00:44:02	--	3814 4230 :Current local users 3814, max 4230
+2020-05-12 00:44:02	--	79612 89000 :Current global users 79612, max 89000
+2020-05-12 00:44:02	--	Highest connection count: 4231 (4230 clients) (131116 connections received)
+2020-05-12 00:44:02	--	- egan.freenode.net Message of the Day - 
+2020-05-12 00:44:02	--	- Welcome to freenode - supporting the free and open source
+2020-05-12 00:44:02	--	- software communities since 1998.
+2020-05-12 00:44:02	--	-  
+2020-05-12 00:44:02	--	- By connecting to freenode you indicate that you have read and
+2020-05-12 00:44:02	--	- accept our policies and guidelines as set out on https://freenode.net
+2020-05-12 00:44:02	--	-  
+2020-05-12 00:44:02	--	- In the event that you observe behaviour that contravenes our policies,
+2020-05-12 00:44:02	--	- please notify a volunteer staff member via private message, or send us an
+2020-05-12 00:44:02	--	- e-mail to complaints@freenode.net -- we will do our best to address the
+2020-05-12 00:44:02	--	- situation within a reasonable period of time, and we may request further
+2020-05-12 00:44:02	--	- information or, as appropriate, involve other parties such as channel operators 
+2020-05-12 00:44:02	--	- Group Contacts representing an on-topic group.
+2020-05-12 00:44:02	--	-  
+2020-05-12 00:44:02	--	- freenode runs an open proxy scanner.
+2020-05-12 00:44:02	--	-  
+2020-05-12 00:44:02	--	- If you are looking for assistance, you may be able to find a list of 
+2020-05-12 00:44:02	--	- volunteer staff on '/stats p' (shows only on-call staff) or by joining 
+2020-05-12 00:44:02	--	- #freenode and using the '/who freenode/staff/*' command. You may message
+2020-05-12 00:44:02	--	- any of us at any time. Please note that freenode predominantly provides 
+2020-05-12 00:44:02	--	- assistance via private message, and while we have a network channel the 
+2020-05-12 00:44:02	--	- primary venue for support requests is via private message to a member 
+2020-05-12 00:44:02	--	- of the volunteer staff team.
+2020-05-12 00:44:02	--	-  
+2020-05-12 00:44:02	--	- From time to time, volunteer staff may send server-wide notices relating to
+2020-05-12 00:44:02	--	- the project, or the communities that we host. The majority of such notices
+2020-05-12 00:44:02	--	- will be sent as wallops, and you can '/mode <yournick> +w' to ensure that you
+2020-05-12 00:44:02	--	- do not miss them. Important messages relating to the freenode project, including
+2020-05-12 00:44:02	--	- notices of upcoming maintenance and other scheduled downtime will be issued as
+2020-05-12 00:44:02	--	- global notices.
+2020-05-12 00:44:02	--	-  
+2020-05-12 00:44:02	--	- Representing an on-topic project? Don't forget to register, more information
+2020-05-12 00:44:02	--	- can be found on the https://freenode.net website under "Group Registration".
+2020-05-12 00:44:02	--	-  
+2020-05-12 00:44:02	--	- Thank you also to our server sponsors for the sustained support in keeping the
+2020-05-12 00:44:02	--	- network going for close to two decades.
+2020-05-12 00:44:02	--	-  
+2020-05-12 00:44:02	--	- Thank you for using freenode!
+2020-05-12 00:44:02	--	End of /MOTD command.
+2020-05-12 00:44:02	--	User mode [+Zi] by zephros
+2020-05-12 01:55:57	=!=	Closing Link: 2605:a000:1113:6096:9597:cbf3:303f:fc23 (Ping timeout: 260 seconds)
+2020-05-12 01:55:57	--	irc: disconnected from server
+2020-05-12 01:55:57	--	irc: reconnecting to server in 10 seconds
+2020-05-12 01:56:07	--	irc: reconnecting to server...
+2020-05-12 01:56:07	--	irc: connecting to server chat.freenode.net/6697 (SSL)...
+2020-05-12 01:56:08	--	gnutls: connected using 2048-bit Diffie-Hellman shared secret exchange
+2020-05-12 01:56:08	--	gnutls: receiving 2 certificates
+2020-05-12 01:56:08	--	 - certificate[1] info:
+2020-05-12 01:56:08	--	   - subject `CN=beckett.freenode.net', issuer `CN=Let's Encrypt Authority X3,O=Let's Encrypt,C=US', serial 0x04f7eb60148b8b3c9ad480b73bcea1ddf3cd, RSA key 4096 bits, signed using RSA-SHA256, activated `2020-04-13 05:02:10 UTC', expires `2020-07-12 05:02:10 UTC', pin-sha256="/PQrLSmsCIfl/FG7CWZKtIFnrXEowkwtaTRiSHfqBAM="
+2020-05-12 01:56:08	--	 - certificate[2] info:
+2020-05-12 01:56:08	--	   - subject `CN=Let's Encrypt Authority X3,O=Let's Encrypt,C=US', issuer `CN=DST Root CA X3,O=Digital Signature Trust Co.', serial 0x0a0141420000015385736a0b85eca708, RSA key 2048 bits, signed using RSA-SHA256, activated `2016-03-17 16:40:46 UTC', expires `2021-03-17 16:40:46 UTC', pin-sha256="YLh1dUR9y6Kja30RrAn7JKnbQG/uEtLMkBgFF2Fuihg="
+2020-05-12 01:56:08	--	gnutls: peer's certificate is trusted
+2020-05-12 01:56:08	--	irc: connected to chat.freenode.net/6697 (185.191.225.10)
+2020-05-12 01:56:08	--	beckett.freenode.net: *** Looking up your hostname...
+2020-05-12 01:56:08	--	beckett.freenode.net: *** Checking Ident
+2020-05-12 01:56:08	--	beckett.freenode.net: *** No Ident response
+2020-05-12 01:56:08	--	beckett.freenode.net: *** Couldn't look up your hostname
+2020-05-12 01:56:08	--	irc: client capability, server supports: extended-join tls multi-prefix identify-msg account-notify chghost sasl cap-notify away-notify
+2020-05-12 01:56:08	--	irc: client capability, requesting: sasl
+2020-05-12 01:56:08	--	irc: client capability, enabled: sasl
+2020-05-12 01:56:09	--	You are now logged in as Zephros. (zephros!zephros@193.176.86.170)
+2020-05-12 01:56:09	--	SASL authentication successful
+2020-05-12 01:56:09	--	beckett.freenode.net: *** Spoofing your IP
+2020-05-12 01:56:09	--	Welcome to the freenode Internet Relay Chat Network zephros
+2020-05-12 01:56:09	--	Your host is beckett.freenode.net[185.191.225.10/6697], running version ircd-seven-1.1.9
+2020-05-12 01:56:09	--	This server was created Fri May 1 2020 at 22:13:51 UTC
+2020-05-12 01:56:09	--	beckett.freenode.net ircd-seven-1.1.9 DOQRSZaghilopsuwz CFILMPQSbcefgijklmnopqrstuvz bkloveqjfI
+2020-05-12 01:56:09	--	CHANTYPES=# EXCEPTS INVEX CHANMODES=eIbq,k,flj,CFLMPQScgimnprstuz CHANLIMIT=#:120 PREFIX=(ov)@+ MAXLIST=bqeI:100 MODES=4 NETWORK=freenode STATUSMSG=@+ CALLERID=g CASEMAPPING=rfc1459 :are supported by this server
+2020-05-12 01:56:09	--	CHARSET=ascii NICKLEN=16 CHANNELLEN=50 TOPICLEN=390 DEAF=D FNC TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: EXTBAN=$,ajrxz CLIENTVER=3.0 SAFELIST ELIST=CTU MONITOR=100 :are supported by this server
+2020-05-12 01:56:09	--	WHOX ETRACE KNOCK CPRIVMSG CNOTICE :are supported by this server
+2020-05-12 01:56:09	--	There are 98 users and 80162 invisible on 30 servers
+2020-05-12 01:56:09	--	37 :IRC Operators online
+2020-05-12 01:56:09	--	34 :unknown connection(s)
+2020-05-12 01:56:09	--	44219 :channels formed
+2020-05-12 01:56:09	--	I have 3776 clients and 1 servers
+2020-05-12 01:56:09	--	3776 4197 :Current local users 3776, max 4197
+2020-05-12 01:56:09	--	80260 89000 :Current global users 80260, max 89000
+2020-05-12 01:56:09	--	Highest connection count: 4198 (4197 clients) (139359 connections received)
+2020-05-12 01:56:09	--	- beckett.freenode.net Message of the Day - 
+2020-05-12 01:56:09	--	- Welcome to freenode - supporting the free and open source
+2020-05-12 01:56:09	--	- software communities since 1998.
+2020-05-12 01:56:09	--	-  
+2020-05-12 01:56:09	--	- By connecting to freenode you indicate that you have read and
+2020-05-12 01:56:09	--	- accept our policies and guidelines as set out on https://freenode.net
+2020-05-12 01:56:09	--	-  
+2020-05-12 01:56:09	--	- In the event that you observe behaviour that contravenes our policies,
+2020-05-12 01:56:09	--	- please notify a volunteer staff member via private message, or send us an
+2020-05-12 01:56:09	--	- e-mail to complaints@freenode.net -- we will do our best to address the
+2020-05-12 01:56:09	--	- situation within a reasonable period of time, and we may request further
+2020-05-12 01:56:09	--	- information or, as appropriate, involve other parties such as channel operators 
+2020-05-12 01:56:09	--	- Group Contacts representing an on-topic group.
+2020-05-12 01:56:09	--	-  
+2020-05-12 01:56:09	--	- freenode runs an open proxy scanner.
+2020-05-12 01:56:09	--	-  
+2020-05-12 01:56:09	--	- If you are looking for assistance, you may be able to find a list of 
+2020-05-12 01:56:09	--	- volunteer staff on '/stats p' (shows only on-call staff) or by joining 
+2020-05-12 01:56:09	--	- #freenode and using the '/who freenode/staff/*' command. You may message
+2020-05-12 01:56:09	--	- any of us at any time. Please note that freenode predominantly provides 
+2020-05-12 01:56:09	--	- assistance via private message, and while we have a network channel the 
+2020-05-12 01:56:09	--	- primary venue for support requests is via private message to a member 
+2020-05-12 01:56:09	--	- of the volunteer staff team.
+2020-05-12 01:56:09	--	-  
+2020-05-12 01:56:09	--	- From time to time, volunteer staff may send server-wide notices relating to
+2020-05-12 01:56:09	--	- the project, or the communities that we host. The majority of such notices
+2020-05-12 01:56:09	--	- will be sent as wallops, and you can '/mode <yournick> +w' to ensure that you
+2020-05-12 01:56:09	--	- do not miss them. Important messages relating to the freenode project, including
+2020-05-12 01:56:09	--	- notices of upcoming maintenance and other scheduled downtime will be issued as
+2020-05-12 01:56:09	--	- global notices.
+2020-05-12 01:56:09	--	-  
+2020-05-12 01:56:09	--	- Representing an on-topic project? Don't forget to register, more information
+2020-05-12 01:56:09	--	- can be found on the https://freenode.net website under "Group Registration".
+2020-05-12 01:56:09	--	-  
+2020-05-12 01:56:09	--	- Thank you also to our server sponsors for the sustained support in keeping the
+2020-05-12 01:56:09	--	- network going for close to two decades.
+2020-05-12 01:56:09	--	-  
+2020-05-12 01:56:09	--	- Thank you for using freenode!
+2020-05-12 01:56:09	--	End of /MOTD command.
+2020-05-12 01:56:09	--	User mode [+Zi] by zephros

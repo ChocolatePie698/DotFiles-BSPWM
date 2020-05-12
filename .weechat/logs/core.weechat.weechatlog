@@ -1,0 +1,252 @@
+2020-05-11 23:33:59		New key binding (context "default"): meta2-1;5P => /bar scroll buflist * -100%
+2020-05-11 23:33:59		New key binding (context "default"): meta2-1;5Q => /bar scroll buflist * +100%
+2020-05-11 23:33:59		New key binding (context "default"): meta-meta-OQ => /bar scroll buflist * e
+2020-05-11 23:33:59		New key binding (context "default"): meta2-1;3Q => /bar scroll buflist * e
+2020-05-11 23:33:59		New key binding (context "default"): meta2-1;3P => /bar scroll buflist * b
+2020-05-11 23:33:59		New key binding (context "default"): meta-meta-OP => /bar scroll buflist * b
+2020-05-11 23:33:59		New key binding (context "default"): meta-OQ => /bar scroll buflist * +100%
+2020-05-11 23:33:59		New key binding (context "default"): meta-OP => /bar scroll buflist * -100%
+2020-05-11 23:33:59		New key binding (context "default"): meta-meta2-12~ => /bar scroll buflist * e
+2020-05-11 23:33:59		New key binding (context "default"): meta-meta2-11~ => /bar scroll buflist * b
+2020-05-11 23:33:59		New key binding (context "default"): meta2-12^ => /bar scroll buflist * +100%
+2020-05-11 23:33:59		New key binding (context "default"): meta2-12~ => /bar scroll buflist * +100%
+2020-05-11 23:33:59		New key binding (context "default"): meta2-11^ => /bar scroll buflist * -100%
+2020-05-11 23:33:59		New key binding (context "default"): meta2-11~ => /bar scroll buflist * -100%
+2020-05-11 23:33:59		Plugins loaded: alias, buflist, charset, exec, fifo, fset, guile, irc, logger, lua, perl, python, relay, script, spell, tcl, trigger, xfer
+2020-05-11 23:34:40		irc: server added: freenode
+2020-05-11 23:34:46		Option changed: irc.server.freenode.addresses = "chat.freenode.net/6697"  (default if null: "")
+2020-05-11 23:34:49		Option changed: irc.server.freenode.ssl = on  (default if null: off)
+2020-05-11 23:34:53		Option changed: irc.server.freenode.sasl_mechanism = plain  (default if null: plain)
+2020-05-11 23:34:59		Option changed: irc.server.freenode.sasl_username = "zephros"  (default if null: "")
+2020-05-11 23:36:26		Option changed: irc.server.freenode.sasl_password = "8Nw6!aEI"  (default if null: "")
+2020-05-11 23:36:37		Option changed: irc.server.freenode.sasl_username = "Zephyrus"  (default if null: "")
+2020-05-11 23:36:47	=!=	irc: command "nick" must be executed on irc buffer (server, channel or private)
+2020-05-11 23:37:51		Option changed: irc.server.freenode.sasl_username = "Zephyrus"  (default if null: "")
+2020-05-11 23:38:03		Option changed: irc.server.freenode.sasl_password = "8Nw6!aEI"  (default if null: "")
+2020-05-11 23:38:32		Option changed: irc.server.freenode.sasl_username = "Zephros"  (default if null: "")
+2020-05-11 23:39:54		Options saved to sec.conf
+2020-05-11 23:39:54		Options saved to weechat.conf
+2020-05-11 23:39:54		Options saved to plugins.conf
+2020-05-11 23:39:54		Options saved to charset.conf
+2020-05-11 23:39:54		Options saved to logger.conf
+2020-05-11 23:39:54		Options saved to exec.conf
+2020-05-11 23:39:54		Options saved to trigger.conf
+2020-05-11 23:39:54		Options saved to spell.conf
+2020-05-11 23:39:54		Options saved to alias.conf
+2020-05-11 23:39:54		Options saved to buflist.conf
+2020-05-11 23:39:54		Options saved to fifo.conf
+2020-05-11 23:39:54		Options saved to xfer.conf
+2020-05-11 23:39:54		Options saved to irc.conf
+2020-05-11 23:39:54		Options saved to relay.conf
+2020-05-11 23:39:54		Options saved to python.conf
+2020-05-11 23:39:54		Options saved to lua.conf
+2020-05-11 23:39:54		Options saved to tcl.conf
+2020-05-11 23:39:54		Options saved to perl.conf
+2020-05-11 23:39:54		Options saved to guile.conf
+2020-05-11 23:39:54		Options saved to script.conf
+2020-05-11 23:39:54		Options saved to fset.conf
+2020-05-11 23:43:32		script: downloading list of scripts...
+2020-05-11 23:43:32		script: 364 scripts for WeeChat 2.8
+2020-05-11 23:43:32		Scripts loaded:
+2020-05-11 23:43:32		  (none)
+2020-05-11 23:43:42		script: script "autojoin" not found
+2020-05-11 23:43:45		python: loading script "/home/zephros/.weechat/python/autojoin.py"
+2020-05-11 23:43:45		python: registered script "autojoin", version 0.3.1 (Configure autojoin for all servers according to currently joined channels)
+2020-05-11 23:43:52		perl: loading script "/home/zephros/.weechat/perl/atcomplete.pl"
+2020-05-11 23:43:52		perl: registered script "atcomplete", version 0.001 (atcomplete - do nick completion following @)
+2020-05-11 23:44:32		python: loading script "/home/zephros/.weechat/python/colorize_nicks.py"
+2020-05-11 23:44:32		python: registered script "colorize_nicks", version 27 (Use the weechat nick colors in the chat area)
+2020-05-11 23:46:10		perl: loading script "/home/zephros/.weechat/perl/xclip.pl"
+2020-05-11 23:46:10		perl: registered script "xclip", version 0.2 (Paste content from X11 clipboard)
+2020-05-11 23:47:27	=!=	Error with command "/script autojoin" (help on command: /help script)
+2020-05-11 23:47:32		[script]  /script  list [-o|-ol|-i|-il]
+2020-05-11 23:47:32		                   search <text>
+2020-05-11 23:47:32		                   show <script>
+2020-05-11 23:47:32		                   load|unload|reload <script> [<script>...]
+2020-05-11 23:47:32		                   autoload|noautoload|toggleautoload <script> [<script>...]
+2020-05-11 23:47:32		                   install|remove|installremove|hold [-q] <script> [<script>...]
+2020-05-11 23:47:32		                   upgrade
+2020-05-11 23:47:32		                   update
+2020-05-11 23:47:32		WeeChat script manager
+2020-05-11 23:47:32		          list: list loaded scripts (all languages)
+2020-05-11 23:47:32		            -o: send list of loaded scripts to buffer (string in English)
+2020-05-11 23:47:32		           -ol: send list of loaded scripts to buffer (translated string)
+2020-05-11 23:47:32		            -i: copy list of loaded scripts in command line (for sending to buffer) (string in English)
+2020-05-11 23:47:32		           -il: copy list of loaded scripts in command line (for sending to buffer) (translated string)
+2020-05-11 23:47:32		        search: search scripts by tags, language (python, perl, ...), filename extension (py, pl, ...) or text; result is displayed on scripts buffer
+2020-05-11 23:47:32		          show: show detailed info about a script
+2020-05-11 23:47:32		          load: load script(s)
+2020-05-11 23:47:32		        unload: unload script(s)
+2020-05-11 23:47:32		        reload: reload script(s)
+2020-05-11 23:47:32		      autoload: autoload the script
+2020-05-11 23:47:32		    noautoload: do not autoload the script
+2020-05-11 23:47:32		toggleautoload: toggle autoload
+2020-05-11 23:47:32		       install: install/upgrade script(s)
+2020-05-11 23:47:32		        remove: remove script(s)
+2020-05-11 23:47:32		 installremove: install or remove script(s), depending on current state
+2020-05-11 23:47:32		          hold: hold/unhold script(s) (a script held will not be upgraded any more and cannot be removed)
+2020-05-11 23:47:32		            -q: quiet mode: do not display messages
+2020-05-11 23:47:32		       upgrade: upgrade all installed scripts which are obsolete (new version available)
+2020-05-11 23:47:32		        update: update local scripts cache
+2020-05-11 23:47:32		Without argument, this command opens a buffer with list of scripts.
+2020-05-11 23:47:32		On script buffer, the possible status for each script are:
+2020-05-11 23:47:32		  * i a H r N
+2020-05-11 23:47:32		  | | | | | |
+2020-05-11 23:47:32		  | | | | | obsolete (new version available)
+2020-05-11 23:47:32		  | | | | running (loaded)
+2020-05-11 23:47:32		  | | | held
+2020-05-11 23:47:32		  | | autoloaded
+2020-05-11 23:47:32		  | installed
+2020-05-11 23:47:32		  popular script
+2020-05-11 23:47:32		Keys on script buffer:
+2020-05-11 23:47:32		  alt+i  install script
+2020-05-11 23:47:32		  alt+r  remove script
+2020-05-11 23:47:32		  alt+l  load script
+2020-05-11 23:47:32		  alt+L  reload script
+2020-05-11 23:47:32		  alt+u  unload script
+2020-05-11 23:47:32		  alt+A  autoload script
+2020-05-11 23:47:32		  alt+h  (un)hold script
+2020-05-11 23:47:32		  alt+v  view script
+2020-05-11 23:47:32		Input allowed on script buffer:
+2020-05-11 23:47:32		  i/r/l/L/u/A/h/v  action on script (same as keys above)
+2020-05-11 23:47:32		  q                close buffer
+2020-05-11 23:47:32		  $                refresh buffer
+2020-05-11 23:47:32		  s:x,y            sort buffer using keys x and y (see /help script.look.sort)
+2020-05-11 23:47:32		  s:               reset sort (use default sort)
+2020-05-11 23:47:32		  word(s)          filter scripts: search word(s) in scripts (description, tags, ...)
+2020-05-11 23:47:32		  *                remove filter
+2020-05-11 23:47:32		Mouse actions on script buffer:
+2020-05-11 23:47:32		  wheel         scroll list
+2020-05-11 23:47:32		  left button   select script
+2020-05-11 23:47:32		  right button  install/remove script
+2020-05-11 23:47:32		Examples:
+2020-05-11 23:47:32		  /script search url
+2020-05-11 23:47:32		  /script install go.py urlserver.py
+2020-05-11 23:47:32		  /script remove go.py
+2020-05-11 23:47:32		  /script hold urlserver.py
+2020-05-11 23:47:32		  /script reload urlserver
+2020-05-11 23:47:32		  /script upgrade
+2020-05-11 23:47:42	=!=	Error with command "/script installed" (help on command: /help script)
+2020-05-11 23:47:45	=!=	Error with command "/script i" (help on command: /help script)
+2020-05-11 23:48:07		[python/autojoin]  /autojoin  [--run]
+2020-05-11 23:48:07		Configure autojoin for all servers according to currently joined channels
+2020-05-11 23:48:07		   --run: actually run the commands instead of displaying
+2020-05-11 23:48:14		/set irc.server.freenode.autojoin '#distrotube'
+2020-05-11 23:52:10		/set irc.server.freenode.autojoin '#distrotube,#manjaro,#wrongplanet,#wrongplanet-alt,#reddit-sysadmin,##astronomy'
+2020-05-11 23:55:39		/set irc.server.freenode.autojoin '#distrotube,#manjaro,#wrongplanet,#wrongplanet-alt,#reddit-sysadmin,##astronomy,##science'
+2020-05-12 00:01:57		/set irc.server.freenode.autojoin '#distrotube,#manjaro,#wrongplanet,#wrongplanet-alt,#reddit-sysadmin,##astronomy,##science,#weechat'
+2020-05-12 00:33:23		perl: scripts unloaded
+2020-05-12 00:33:23		fifo: pipe closed
+2020-05-12 00:36:07		python scripts loaded: autojoin, colorize_nicks
+2020-05-12 00:36:07		perl scripts loaded: atcomplete, xclip
+2020-05-12 00:36:07		script: 364 scripts for WeeChat 2.8
+2020-05-12 00:36:07		Plugins loaded: alias, buflist, charset, exec, fifo, fset, guile, irc, logger, lua, perl, python, relay, script, spell, tcl, trigger, xfer
+2020-05-12 00:36:31		[python/autojoin]  /autojoin  [--run]
+2020-05-12 00:36:31		Configure autojoin for all servers according to currently joined channels
+2020-05-12 00:36:31		   --run: actually run the commands instead of displaying
+2020-05-12 00:36:43	=!=	Error: unknown command "/autjoin" (type /help for help)
+2020-05-12 00:37:00	=!=	Error: unknown command "/autjoin" (type /help for help)
+2020-05-12 00:37:04		Unexpected argument: [--run]
+2020-05-12 00:37:53	=!=	Error: unknown command "/autoconnct" (type /help for help)
+2020-05-12 00:37:55	=!=	Error: unknown command "/autoconnect" (type /help for help)
+2020-05-12 00:38:02		Unexpected argument: SAVE
+2020-05-12 00:38:17	=!=	Error with command "/script autojoin" (help on command: /help script)
+2020-05-12 00:39:21		python: unloading script "autojoin"
+2020-05-12 00:39:21		python: script "autojoin" unloaded
+2020-05-12 00:39:21		python: loading script "/home/zephros/.weechat/python/autoload/autojoin.py"
+2020-05-12 00:39:21		python: registered script "autojoin", version 0.3.1 (Configure autojoin for all servers according to currently joined channels)
+2020-05-12 00:39:37		python: unloading script "autojoin"
+2020-05-12 00:39:37		python: script "autojoin" unloaded
+2020-05-12 00:39:37		python: loading script "/home/zephros/.weechat/python/autoload/autojoin.py"
+2020-05-12 00:39:37		python: registered script "autojoin", version 0.3.1 (Configure autojoin for all servers according to currently joined channels)
+2020-05-12 00:40:00		Unexpected argument: --join
+2020-05-12 00:40:40		Options saved to sec.conf
+2020-05-12 00:40:40		Options saved to weechat.conf
+2020-05-12 00:40:40		Options saved to plugins.conf
+2020-05-12 00:40:40		Options saved to charset.conf
+2020-05-12 00:40:40		Options saved to logger.conf
+2020-05-12 00:40:40		Options saved to exec.conf
+2020-05-12 00:40:40		Options saved to trigger.conf
+2020-05-12 00:40:40		Options saved to spell.conf
+2020-05-12 00:40:40		Options saved to alias.conf
+2020-05-12 00:40:40		Options saved to buflist.conf
+2020-05-12 00:40:40		Options saved to fifo.conf
+2020-05-12 00:40:40		Options saved to xfer.conf
+2020-05-12 00:40:40		Options saved to irc.conf
+2020-05-12 00:40:40		Options saved to relay.conf
+2020-05-12 00:40:40		Options saved to python.conf
+2020-05-12 00:40:40		Options saved to colorize_nicks.conf
+2020-05-12 00:40:40		Options saved to lua.conf
+2020-05-12 00:40:40		Options saved to tcl.conf
+2020-05-12 00:40:40		Options saved to perl.conf
+2020-05-12 00:40:40		Options saved to guile.conf
+2020-05-12 00:40:40		Options saved to script.conf
+2020-05-12 00:40:40		Options saved to fset.conf
+2020-05-12 00:40:50		perl: scripts unloaded
+2020-05-12 00:40:50		fifo: pipe closed
+2020-05-12 00:40:51		python scripts loaded: autojoin, colorize_nicks
+2020-05-12 00:40:51		perl scripts loaded: atcomplete, xclip
+2020-05-12 00:40:51		script: 364 scripts for WeeChat 2.8
+2020-05-12 00:40:51		Plugins loaded: alias, buflist, charset, exec, fifo, fset, guile, irc, logger, lua, perl, python, relay, script, spell, tcl, trigger, xfer
+2020-05-12 00:41:29		script: script "ruby.so" not found
+2020-05-12 00:41:41		perl: scripts unloaded
+2020-05-12 00:41:41		fifo: pipe closed
+2020-05-12 00:42:47		python scripts loaded: autojoin, colorize_nicks
+2020-05-12 00:42:47		perl scripts loaded: atcomplete, xclip
+2020-05-12 00:42:47		script: 364 scripts for WeeChat 2.8
+2020-05-12 00:42:47		Plugins loaded: alias, buflist, charset, exec, fifo, fset, guile, irc, logger, lua, perl, python, relay, ruby, script, spell, tcl, trigger, xfer
+2020-05-12 00:43:41		Option changed: irc.server.freenode.autojoin = "#Distrotube,#Wrongplanet,#Wrongplanet-alt,#reddit-sysadmin,##astronomy,#weechat,#manjaro,##science"  (default if null: "")
+2020-05-12 00:43:46	=!=	irc: command "join" must be executed on irc buffer (server, channel or private)
+2020-05-12 00:54:13	=!=	Error: unknown command "/font" (type /help for help)
+2020-05-12 00:54:16	=!=	No help available, "fon" is not a command or an option
+2020-05-12 00:54:18	=!=	No help available, "font" is not a command or an option
+2020-05-12 00:54:19		[core]
+2020-05-12 00:54:19		  away     color    debug    help     key      mute     proxy    repeat   set      uptime   window 
+2020-05-12 00:54:19		  bar      command  eval     history  layout   plugin   quit     save     unset    version
+2020-05-12 00:54:19		  buffer   cursor   filter   input    mouse    print    reload   secure   upgrade  wait   
+2020-05-12 00:54:19		[irc]
+2020-05-12 00:54:19		  admin       ctcp        disconnect  kick        me          notify      quiet       samode      squery      unban       wallops   
+2020-05-12 00:54:19		  allchan     cycle       halfop      kickban     mode        op          quote       sanick      squit       unquiet     who       
+2020-05-12 00:54:19		  allpv       dcc         ignore      kill        motd        oper        reconnect   sapart      stats       userhost    whois     
+2020-05-12 00:54:19		  allserv     dehalfop    info        links       msg         part        rehash      saquit      summon      users       whowas    
+2020-05-12 00:54:19		  ban         deop        invite      list        names       ping        remove      server      time        version   
+2020-05-12 00:54:19		  cap         devoice     ison        lusers      nick        pong        restart     service     topic       voice     
+2020-05-12 00:54:19		  connect     die         join        map         notice      query       sajoin      servlist    trace       wallchops 
+2020-05-12 00:54:19		[buflist]
+2020-05-12 00:54:19		  buflist
+2020-05-12 00:54:19		[python]
+2020-05-12 00:54:19		  autojoin  python
+2020-05-12 00:54:19		[fset]
+2020-05-12 00:54:19		  fset
+2020-05-12 00:54:19		[logger]
+2020-05-12 00:54:19		  logger
+2020-05-12 00:54:19		[script]
+2020-05-12 00:54:19		  script
+2020-05-12 00:54:19		[lua]
+2020-05-12 00:54:19		  lua
+2020-05-12 00:54:19		[fifo]
+2020-05-12 00:54:19		  fifo
+2020-05-12 00:54:19		[spell]
+2020-05-12 00:54:19		  spell
+2020-05-12 00:54:19		[xfer]
+2020-05-12 00:54:19		  me  xfer
+2020-05-12 00:54:19		[trigger]
+2020-05-12 00:54:19		  trigger
+2020-05-12 00:54:19		[ruby]
+2020-05-12 00:54:19		  ruby
+2020-05-12 00:54:19		[tcl]
+2020-05-12 00:54:19		  tcl
+2020-05-12 00:54:19		[perl]
+2020-05-12 00:54:19		  perl  xclip
+2020-05-12 00:54:19		[relay]
+2020-05-12 00:54:19		  relay
+2020-05-12 00:54:19		[alias]
+2020-05-12 00:54:19		  AAWAY    BEEP     CHAT     EXIT     K        M        N        SAY      UB       W        WII    
+2020-05-12 00:54:19		  alias    BYE      CL       IG       KB       MSGBUF   Q        SIGNOFF  UMODE    WC       WM     
+2020-05-12 00:54:19		  ANICK    C        CLOSE    J        LEAVE    MUB      REDRAW   T        V        WI       WW     
+2020-05-12 00:54:19		[charset]
+2020-05-12 00:54:19		  charset
+2020-05-12 00:54:19		[guile]
+2020-05-12 00:54:19		  guile
+2020-05-12 00:54:19		[exec]
+2020-05-12 00:54:19		  exec
